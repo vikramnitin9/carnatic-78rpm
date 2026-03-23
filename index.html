@@ -294,7 +294,7 @@ function renderTable(query) {
   });
 
   noResults.style.display = visibleCount === 0 ? 'block' : 'none';
-  resultCount.textContent = q ? visibleCount + ' of ' + RECORDS.length + ' records' : RECORDS.length + ' records';
+  resultCount.textContent = (q || titleOnly.checked) ? visibleCount + ' of ' + RECORDS.length + ' records' : RECORDS.length + ' records';
 }
 
 searchInput.addEventListener('input', function() { renderTable(searchInput.value); });
