@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carnatic 78 RPM Gramophone Records</title>
+  <style>
+    :root {
+      --bg: #faf8f5;
+      --card-bg: #ffffff;
+      --accent: #6b3a2a;
+      --accent-light: #8b5e3c;
+      --border: #e0d5c8;
+      --text: #2c2420;
+      --text-muted: #7a6e64;
+      --highlight: #fff3cd;
+      --link: #8b4513;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    header {
+      background: var(--accent);
+      color: #f5ebe0;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    header p {
+      margin-top: 0.4rem;
+      font-size: 1rem;
+      opacity: 0.85;
+      font-style: italic;
+    }
+
+    .container {
+      max-width: 1300px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem;
+    }
+
+    .search-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .search-bar input {
+      flex: 1;
+      padding: 0.7rem 1rem;
+      font-size: 1rem;
+      font-family: inherit;
+      border: 2px solid var(--border);
+      border-radius: 6px;
+      background: var(--card-bg);
+      color: var(--text);
+      transition: border-color 0.2s;
+    }
+
+    .search-bar input:focus {
+      outline: none;
+      border-color: var(--accent-light);
+    }
+
+    .search-bar .result-count {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    .table-wrapper {
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--card-bg);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 900px;
+    }
+
+    thead {
+      background: var(--accent);
+      color: #f5ebe0;
+    }
+
+    thead th {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      font-weight: 600;
+      font-size: 0.95rem;
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    thead th:hover {
+      background: var(--accent-light);
+    }
+
+    thead th .sort-arrow {
+      margin-left: 0.3rem;
+      font-size: 0.75rem;
+      opacity: 0.5;
+    }
+
+    thead th .sort-arrow.active {
+      opacity: 1;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background 0.15s;
+    }
+
+    tbody tr:last-child {
+      border-bottom: none;
+    }
+
+    tbody tr:hover {
+      background: #f5efe8;
+    }
+
+    tbody tr.hidden {
+      display: none;
+    }
+
+    tbody td {
+      padding: 0.6rem 1rem;
+      font-size: 0.92rem;
+      vertical-align: top;
+    }
+
+    tbody td a {
+      color: var(--link);
+      text-decoration: none;
+      border-bottom: 1px dotted var(--link);
+    }
+
+    tbody td a:hover {
+      border-bottom-style: solid;
+    }
+
+    tbody td mark {
+      background: var(--highlight);
+      padding: 0 2px;
+      border-radius: 2px;
+    }
+
+    .no-results {
+      text-align: center;
+      padding: 2rem;
+      color: var(--text-muted);
+      font-style: italic;
+      display: none;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    @media (max-width: 768px) {
+      header h1 { font-size: 1.4rem; }
+      .container { padding: 1rem 0.5rem; }
+      tbody td, thead th { padding: 0.5rem 0.6rem; font-size: 0.85rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Carnatic 78 RPM Gramophone Records</h1>
+  <p>A catalogue of early recordings of Carnatic music</p>
+</header>
+
+<div class="container">
+  <div class="search-bar">
+    <input type="text" id="search" placeholder="Search by performer, song, ragam, talam, matrix #&hellip;" autocomplete="off">
+    <span class="result-count" id="resultCount"></span>
+  </div>
+
+  <div class="table-wrapper">
+    <table id="recordsTable">
+      <thead>
+        <tr>
+          <th data-col="0">Matrix # <span class="sort-arrow">▲▼</span></th>
+          <th data-col="1">Performer <span class="sort-arrow">▲▼</span></th>
+          <th data-col="2">Song <span class="sort-arrow">▲▼</span></th>
+          <th data-col="3">Ragam <span class="sort-arrow">▲▼</span></th>
+          <th data-col="4">Talam <span class="sort-arrow">▲▼</span></th>
+          <th data-col="5">Recording Date <span class="sort-arrow">▲▼</span></th>
+          <th data-col="6">Issue Numbers <span class="sort-arrow">▲▼</span></th>
+          <th data-col="7">Link <span class="sort-arrow">▲▼</span></th>
+        </tr>
+      </thead>
+      <tbody id="recordsBody">
+      </tbody>
+    </table>
+    <div class="no-results" id="noResults">No records match your search.</div>
+  </div>
+</div>
+
+<footer>
+  Carnatic 78 RPM Gramophone Records Archive
+</footer>
+
+<script>
+const RECORDS = [
+  {
+    matrix: "OE 234",
+    performer: "Ariyakudi Ramanuja Iyengar",
+    song: "Bhavayami Raghuramam",
+    ragam: "Sankarabharanam",
+    talam: "Adi",
+    date: "1928",
+    issue: "N 4532",
+    link: "https://example.com/bhavayami"
+  },
+  {
+    matrix: "OE 310",
+    performer: "Ariyakudi Ramanuja Iyengar",
+    song: "Nagumomu Ganaleni",
+    ragam: "Abheri",
+    talam: "Adi",
+    date: "1930",
+    issue: "N 4620",
+    link: "https://example.com/nagumomu"
+  },
+  {
+    matrix: "OE 412",
+    performer: "Musiri Subramania Iyer",
+    song: "Emani Migula",
+    ragam: "Todi",
+    talam: "Adi",
+    date: "1932",
+    issue: "N 4750",
+    link: "https://example.com/emani"
+  },
+  {
+    matrix: "OE 450",
+    performer: "Musiri Subramania Iyer",
+    song: "Koluvaiyunnade",
+    ragam: "Bhairavi",
+    talam: "Adi",
+    date: "1933",
+    issue: "N 4800",
+    link: "https://example.com/koluvaiyunnade"
+  },
+  {
+    matrix: "OE 500",
+    performer: "Semmangudi Srinivasa Iyer",
+    song: "O Rangasayee",
+    ragam: "Kambhoji",
+    talam: "Adi",
+    date: "1934",
+    issue: "N 4852",
+    link: "https://example.com/orangasayee"
+  },
+  {
+    matrix: "OE 520",
+    performer: "Maharajapuram Viswanatha Iyer",
+    song: "Aparadhamula Kshamimpa",
+    ragam: "Rasali",
+    talam: "Rupakam",
+    date: "1935",
+    issue: "N 4880",
+    link: "https://example.com/aparadhamula"
+  },
+  {
+    matrix: "OE 611",
+    performer: "G.N. Balasubramaniam",
+    song: "Evarani Nirnayinchira",
+    ragam: "Sahana",
+    talam: "Misra Chapu",
+    date: "1936",
+    issue: "N 4920",
+    link: "https://example.com/evarani"
+  },
+  {
+    matrix: "OE 620",
+    performer: "G.N. Balasubramaniam",
+    song: "Brochevarevarura",
+    ragam: "Sriranjani",
+    talam: "Adi",
+    date: "1937",
+    issue: "N 4955",
+    link: "https://example.com/brocheva"
+  },
+  {
+    matrix: "OE 700",
+    performer: "Madurai Mani Iyer",
+    song: "Meenakshi Me Mudam",
+    ragam: "Poorvikalyani",
+    talam: "Adi",
+    date: "1938",
+    issue: "N 5002",
+    link: "https://example.com/meenakshi"
+  },
+  {
+    matrix: "OE 755",
+    performer: "M.S. Subbulakshmi",
+    song: "Kurai Onrum Illai",
+    ragam: "Sivaranjani",
+    talam: "Adi",
+    date: "1940",
+    issue: "N 5100",
+    link: "https://example.com/kurai"
+  }
+];
+
+const tbody = document.getElementById('recordsBody');
+const searchInput = document.getElementById('search');
+const resultCount = document.getElementById('resultCount');
+const noResults = document.getElementById('noResults');
+
+function escapeHtml(str) {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function highlightMatch(text, query) {
+  if (!query) return escapeHtml(text);
+  const escaped = escapeHtml(text);
+  const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+  return escaped.replace(regex, '<mark>$1</mark>');
+}
+
+function renderTable(query) {
+  const q = (query || '').trim().toLowerCase();
+  let visibleCount = 0;
+
+  tbody.innerHTML = '';
+
+  RECORDS.forEach(rec => {
+    const fields = [rec.matrix, rec.performer, rec.song, rec.ragam, rec.talam, rec.date, rec.issue, rec.link];
+    const match = !q || fields.some(f => f.toLowerCase().includes(q));
+
+    if (!match) return;
+    visibleCount++;
+
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${highlightMatch(rec.matrix, q)}</td>
+      <td>${highlightMatch(rec.performer, q)}</td>
+      <td>${highlightMatch(rec.song, q)}</td>
+      <td>${highlightMatch(rec.ragam, q)}</td>
+      <td>${highlightMatch(rec.talam, q)}</td>
+      <td>${highlightMatch(rec.date, q)}</td>
+      <td>${highlightMatch(rec.issue, q)}</td>
+      <td>${rec.link ? `<a href="${escapeHtml(rec.link)}" target="_blank" rel="noopener">${highlightMatch(rec.link, q)}</a>` : '—'}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+
+  noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+  resultCount.textContent = q ? `${visibleCount} of ${RECORDS.length} records` : `${RECORDS.length} records`;
+}
+
+searchInput.addEventListener('input', () => renderTable(searchInput.value));
+
+// Column sorting
+let sortCol = -1, sortAsc = true;
+document.querySelectorAll('thead th').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = parseInt(th.dataset.col);
+    if (sortCol === col) {
+      sortAsc = !sortAsc;
+    } else {
+      sortCol = col;
+      sortAsc = true;
+    }
+    const keys = ['matrix', 'performer', 'song', 'ragam', 'talam', 'date', 'issue', 'link'];
+    const key = keys[col];
+    RECORDS.sort((a, b) => {
+      const va = a[key].toLowerCase(), vb = b[key].toLowerCase();
+      return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+    });
+
+    document.querySelectorAll('.sort-arrow').forEach(s => { s.classList.remove('active'); s.textContent = '▲▼'; });
+    const arrow = th.querySelector('.sort-arrow');
+    arrow.classList.add('active');
+    arrow.textContent = sortAsc ? '▲' : '▼';
+
+    renderTable(searchInput.value);
+  });
+});
+
+renderTable('');
+</script>
+
+</body>
+</html>
