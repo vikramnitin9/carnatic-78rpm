@@ -170,6 +170,41 @@
       display: none;
     }
 
+    .btn-delete {
+      background: #c0392b;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      padding: 2px 8px;
+      font-size: 0.78rem;
+      cursor: pointer;
+      font-family: inherit;
+    }
+
+    .btn-delete:hover {
+      background: #962d22;
+    }
+
+    .export-bar {
+      margin-top: 0.75rem;
+      text-align: right;
+    }
+
+    .btn-export {
+      background: var(--accent);
+      color: #f5ebe0;
+      border: none;
+      border-radius: 5px;
+      padding: 0.5rem 1rem;
+      font-size: 0.88rem;
+      cursor: pointer;
+      font-family: inherit;
+    }
+
+    .btn-export:hover {
+      background: var(--accent-light);
+    }
+
     footer {
       text-align: center;
       padding: 2rem 1rem;
@@ -218,12 +253,16 @@
           <th data-col="10">Link</th>
           <th data-col="11">Original Title <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th>Listing</th>
+          <th></th>
         </tr>
       </thead>
       <tbody id="recordsBody">
       </tbody>
     </table>
     <div class="no-results" id="noResults">No records match your search.</div>
+  </div>
+  <div class="export-bar">
+    <button class="btn-export" onclick="exportData()">Export remaining data as JSON</button>
   </div>
 </div>
 
@@ -257,7 +296,7 @@ function renderTable(query) {
 
   tbody.innerHTML = '';
 
-  RECORDS.forEach(function(rec) {
+  RECORDS.forEach(function(rec, idx) {
     var fields = [rec.matrix, rec.issue, rec.performer, rec.song, rec.composer, rec.ragam, rec.talam, rec.language, rec.date, rec.city, rec.originalTitle];
     var match = !q || fields.some(function(f) { return (f || '').toLowerCase().indexOf(q) !== -1; });
 
@@ -278,7 +317,8 @@ function renderTable(query) {
       '<td>' + highlightMatch(rec.city, q) + '</td>' +
       '<td></td>' +
       '<td>' + highlightMatch(rec.originalTitle, q) + '</td>' +
-      '<td>' + (rec.listing ? '<a href="' + escapeHtml(rec.listing) + '" target="_blank" rel="noopener">PDF</a>' : '') + '</td>';
+      '<td>' + (rec.listing ? '<a href="' + escapeHtml(rec.listing) + '" target="_blank" rel="noopener">PDF</a>' : '') + '</td>' +
+      '<td><button class="btn-delete" data-idx="' + idx + '">Delete</button></td>';
     tbody.appendChild(tr);
   });
 
@@ -318,6 +358,27 @@ document.querySelectorAll('thead th[data-col]').forEach(function(th) {
 });
 
 renderTable('');
+
+// Delete button handler (event delegation)
+tbody.addEventListener('click', function(e) {
+  if (e.target.classList.contains('btn-delete')) {
+    var idx = parseInt(e.target.dataset.idx);
+    if (!isNaN(idx) && idx >= 0 && idx < RECORDS.length) {
+      RECORDS.splice(idx, 1);
+      renderTable(searchInput.value);
+    }
+  }
+});
+
+function exportData() {
+  var blob = new Blob([JSON.stringify(RECORDS, null, 2)], {type: 'application/json'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement('a');
+  a.href = url;
+  a.download = 'carnatic_78rpm_records.json';
+  a.click();
+  URL.revokeObjectURL(url);
+}
 </script>
 
 </body>
