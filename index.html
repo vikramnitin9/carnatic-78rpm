@@ -208,13 +208,13 @@
           <th data-col="0">Matrix # <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th data-col="1">Performer <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th data-col="2">Song <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="3">Original Title <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="4">Ragam <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="5">Talam <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="6">Date <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="7">Issue Numbers <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="8">City <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="9">Link</th>
+          <th data-col="3">Ragam <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="4">Talam <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="5">Date <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="6">Issue Numbers <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="7">City <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="8">Link</th>
+          <th data-col="9">Original Title <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th>Listing</th>
         </tr>
       </thead>
@@ -267,13 +267,13 @@ function renderTable(query) {
       '<td>' + highlightMatch(rec.matrix, q) + '</td>' +
       '<td>' + highlightMatch(rec.performer, q) + '</td>' +
       '<td>' + highlightMatch(rec.song, q) + '</td>' +
-      '<td>' + highlightMatch(rec.originalTitle, q) + '</td>' +
       '<td>' + highlightMatch(rec.ragam, q) + '</td>' +
       '<td>' + highlightMatch(rec.talam, q) + '</td>' +
       '<td>' + highlightMatch(rec.date, q) + '</td>' +
       '<td>' + highlightMatch(rec.issue, q) + '</td>' +
       '<td>' + highlightMatch(rec.city, q) + '</td>' +
       '<td></td>' +
+      '<td>' + highlightMatch(rec.originalTitle, q) + '</td>' +
       '<td>' + (rec.listing ? '<a href="' + escapeHtml(rec.listing) + '" target="_blank" rel="noopener">PDF</a>' : '') + '</td>';
     tbody.appendChild(tr);
   });
@@ -295,7 +295,7 @@ document.querySelectorAll('thead th[data-col]').forEach(function(th) {
       sortCol = col;
       sortAsc = true;
     }
-    var keys = ['matrix', 'performer', 'song', 'originalTitle', 'ragam', 'talam', 'date', 'issue', 'city'];
+    var keys = ['matrix', 'performer', 'song', 'ragam', 'talam', 'date', 'issue', 'city', '', 'originalTitle'];
     var key = keys[col];
     RECORDS.sort(function(a, b) {
       var va = (a[key] || '').toLowerCase(), vb = (b[key] || '').toLowerCase();
