@@ -202,6 +202,11 @@
     <input type="text" id="search" placeholder="Search by performer, song, ragam, talam, matrix #, city&#8230;" autocomplete="off">
     <span class="result-count" id="resultCount"></span>
   </div>
+  <div style="margin-bottom: 1rem;">
+    <label style="font-size: 0.9rem; cursor: pointer;">
+      <input type="checkbox" id="titleOnly"> Show only records with a title
+    </label>
+  </div>
 
   <div class="table-wrapper">
     <table id="recordsTable">
@@ -242,6 +247,7 @@ var tbody = document.getElementById('recordsBody');
 var searchInput = document.getElementById('search');
 var resultCount = document.getElementById('resultCount');
 var noResults = document.getElementById('noResults');
+var titleOnly = document.getElementById('titleOnly');
 
 function escapeHtml(str) {
   return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -263,6 +269,7 @@ function renderTable(query) {
   RECORDS.forEach(function(rec) {
     var fields = [rec.matrix, rec.issue, rec.performer, rec.song, rec.composer, rec.ragam, rec.talam, rec.language, rec.date, rec.city, rec.originalTitle];
     var match = !q || fields.some(function(f) { return (f || '').toLowerCase().indexOf(q) !== -1; });
+    if (match && titleOnly.checked && !rec.song) match = false;
 
     if (!match) return;
     visibleCount++;
@@ -291,6 +298,7 @@ function renderTable(query) {
 }
 
 searchInput.addEventListener('input', function() { renderTable(searchInput.value); });
+titleOnly.addEventListener('change', function() { renderTable(searchInput.value); });
 
 var sortCol = -1, sortAsc = true;
 document.querySelectorAll('thead th[data-col]').forEach(function(th) {
