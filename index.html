@@ -281,7 +281,7 @@ function renderTable(query) {
       '<td>' + highlightMatch(rec.city, q) + '</td>' +
       '<td></td>' +
       '<td>' + highlightMatch(rec.originalTitle, q) + '</td>' +
-      '<td>' + (rec.listing ? '<a href="' + escapeHtml(rec.listing) + '" target="_blank" rel="noopener">PDF</a>' : '') + '</td>' +
+      '<td>' + (rec.listing ? '<a href="' + escapeHtml(rec.listing) + '" target="_blank" rel="noopener">PDF</a>' : '') + '</td>';
 
     tbody.appendChild(tr);
   });
