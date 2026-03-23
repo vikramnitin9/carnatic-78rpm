@@ -206,14 +206,14 @@
       <thead>
         <tr>
           <th data-col="0">Matrix # <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="1">Performer <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="2">Song <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="3">Composer <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="4">Ragam <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="5">Talam <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="6">Language <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="7">Date <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="8">Issue Numbers <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="1">Issue Numbers <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="2">Performer <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="3">Song <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="4">Composer <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="5">Ragam <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="6">Talam <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="7">Language <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-col="8">Date <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th data-col="9">City <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th data-col="10">Link</th>
           <th data-col="11">Original Title <span class="sort-arrow">&#9650;&#9660;</span></th>
@@ -258,7 +258,7 @@ function renderTable(query) {
   tbody.innerHTML = '';
 
   RECORDS.forEach(function(rec) {
-    var fields = [rec.matrix, rec.performer, rec.song, rec.composer, rec.ragam, rec.talam, rec.language, rec.date, rec.issue, rec.city, rec.originalTitle];
+    var fields = [rec.matrix, rec.issue, rec.performer, rec.song, rec.composer, rec.ragam, rec.talam, rec.language, rec.date, rec.city, rec.originalTitle];
     var match = !q || fields.some(function(f) { return (f || '').toLowerCase().indexOf(q) !== -1; });
 
     if (!match) return;
@@ -267,6 +267,7 @@ function renderTable(query) {
     var tr = document.createElement('tr');
     tr.innerHTML =
       '<td>' + highlightMatch(rec.matrix, q) + '</td>' +
+      '<td>' + highlightMatch(rec.issue, q) + '</td>' +
       '<td>' + highlightMatch(rec.performer, q) + '</td>' +
       '<td>' + highlightMatch(rec.song, q) + '</td>' +
       '<td>' + highlightMatch(rec.composer, q) + '</td>' +
@@ -274,7 +275,6 @@ function renderTable(query) {
       '<td>' + highlightMatch(rec.talam, q) + '</td>' +
       '<td>' + highlightMatch(rec.language, q) + '</td>' +
       '<td>' + highlightMatch(rec.date, q) + '</td>' +
-      '<td>' + highlightMatch(rec.issue, q) + '</td>' +
       '<td>' + highlightMatch(rec.city, q) + '</td>' +
       '<td></td>' +
       '<td>' + highlightMatch(rec.originalTitle, q) + '</td>' +
@@ -299,7 +299,7 @@ document.querySelectorAll('thead th[data-col]').forEach(function(th) {
       sortCol = col;
       sortAsc = true;
     }
-    var keys = ['matrix', 'performer', 'song', 'composer', 'ragam', 'talam', 'language', 'date', 'issue', 'city', '', 'originalTitle'];
+    var keys = ['matrix', 'issue', 'performer', 'song', 'composer', 'ragam', 'talam', 'language', 'date', 'city', '', 'originalTitle'];
     var key = keys[col];
     RECORDS.sort(function(a, b) {
       var va = (a[key] || '').toLowerCase(), vb = (b[key] || '').toLowerCase();
