@@ -269,7 +269,7 @@ function renderTable(query) {
   RECORDS.forEach(function(rec) {
     var fields = [rec.matrix, rec.issue, rec.performer, rec.song, rec.composer, rec.ragam, rec.talam, rec.language, rec.date, rec.city, rec.originalTitle];
     var match = !q || fields.some(function(f) { return (f || '').toLowerCase().indexOf(q) !== -1; });
-    if (match && titleOnly.checked && !rec.song) match = false;
+    if (match && titleOnly.checked && !rec.originalTitle) match = false;
 
     if (!match) return;
     visibleCount++;
