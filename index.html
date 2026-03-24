@@ -250,9 +250,6 @@
   </div>
   <div style="margin-bottom: 1rem; display: flex; flex-direction: column; gap: 0.3rem;">
     <label style="font-size: 0.9rem; cursor: pointer;">
-      <input type="checkbox" id="titleOnly"> Show only records with a title
-    </label>
-    <label style="font-size: 0.9rem; cursor: pointer;">
       <input type="checkbox" id="discogsOnly"> Show only records with a Discogs entry
     </label>
     <label style="font-size: 0.9rem; cursor: pointer;">
@@ -13344,7 +13341,6 @@ var tbody = document.getElementById('recordsBody');
 var searchInput = document.getElementById('search');
 var resultCount = document.getElementById('resultCount');
 var noResults = document.getElementById('noResults');
-var titleOnly = document.getElementById('titleOnly');
 var discogsOnly = document.getElementById('discogsOnly');
 var audioOnly = document.getElementById('audioOnly');
 
@@ -13368,7 +13364,6 @@ function renderTable(query) {
   RECORDS.forEach(function(rec) {
     var fields = [rec.matrix, rec.issue, rec.performer, rec.song, rec.composer, rec.ragam, rec.talam, rec.language, rec.date, rec.city, rec.originalTitle];
     var match = !q || fields.some(function(f) { return (f || '').toLowerCase().indexOf(q) !== -1; });
-    if (match && titleOnly.checked && !rec.originalTitle) match = false;
     if (match && discogsOnly.checked && !rec.discogs) match = false;
     if (match && audioOnly.checked && !rec.link) match = false;
 
@@ -13396,13 +13391,12 @@ function renderTable(query) {
   });
 
   noResults.style.display = visibleCount === 0 ? 'block' : 'none';
-  resultCount.textContent = (q || titleOnly.checked || discogsOnly.checked || audioOnly.checked) ? visibleCount + ' of ' + RECORDS.length + ' records' : RECORDS.length + ' records';
+  resultCount.textContent = (q || discogsOnly.checked || audioOnly.checked) ? visibleCount + ' of ' + RECORDS.length + ' records' : RECORDS.length + ' records';
 }
 
 audioOnly.addEventListener('change', function() { renderTable(searchInput.value); });
 
 searchInput.addEventListener('input', function() { renderTable(searchInput.value); });
-titleOnly.addEventListener('change', function() { renderTable(searchInput.value); });
 discogsOnly.addEventListener('change', function() { renderTable(searchInput.value); });
 
 var sortCol = -1, sortAsc = true;
