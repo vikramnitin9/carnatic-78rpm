@@ -208,6 +208,7 @@
     </label>
     <label style="font-size: 0.9rem; cursor: pointer; margin-left: 1.5rem;">
       <input type="checkbox" id="discogsOnly"> Show only records with a Discogs entry
+    <label><input type="checkbox" id="audioOnly"> Show only records with Audio</label>
     </label>
   </div>
 
@@ -225,7 +226,7 @@
           <th data-col="7">Language <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th data-col="8">Date <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th data-col="9">City <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-col="10">Link</th>
+          <th data-col="10">Audio</th>
           <th data-col="11">Original Title <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th>Listing</th>
           <th>Discogs</th>
@@ -253,6 +254,7 @@ var resultCount = document.getElementById('resultCount');
 var noResults = document.getElementById('noResults');
 var titleOnly = document.getElementById('titleOnly');
 var discogsOnly = document.getElementById('discogsOnly');
+var audioOnly = document.getElementById('audioOnly');
 
 function escapeHtml(str) {
   return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -276,6 +278,7 @@ function renderTable(query) {
     var match = !q || fields.some(function(f) { return (f || '').toLowerCase().indexOf(q) !== -1; });
     if (match && titleOnly.checked && !rec.originalTitle) match = false;
     if (match && discogsOnly.checked && !rec.discogs) match = false;
+    if (match && audioOnly.checked && !rec.link) match = false;
 
     if (!match) return;
     visibleCount++;
@@ -301,8 +304,10 @@ function renderTable(query) {
   });
 
   noResults.style.display = visibleCount === 0 ? 'block' : 'none';
-  resultCount.textContent = (q || titleOnly.checked || discogsOnly.checked) ? visibleCount + ' of ' + RECORDS.length + ' records' : RECORDS.length + ' records';
+  resultCount.textContent = (q || titleOnly.checked || discogsOnly.checked || audioOnly.checked) ? visibleCount + ' of ' + RECORDS.length + ' records' : RECORDS.length + ' records';
 }
+
+audioOnly.addEventListener('change', function() { renderTable(searchInput.value); });
 
 searchInput.addEventListener('input', function() { renderTable(searchInput.value); });
 titleOnly.addEventListener('change', function() { renderTable(searchInput.value); });
