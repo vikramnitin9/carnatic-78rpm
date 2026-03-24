@@ -206,6 +206,9 @@
     <label style="font-size: 0.9rem; cursor: pointer;">
       <input type="checkbox" id="titleOnly"> Show only records with a title
     </label>
+    <label style="font-size: 0.9rem; cursor: pointer; margin-left: 1.5rem;">
+      <input type="checkbox" id="discogsOnly"> Show only records with a Discogs entry
+    </label>
   </div>
 
   <div class="table-wrapper">
@@ -249,6 +252,7 @@ var searchInput = document.getElementById('search');
 var resultCount = document.getElementById('resultCount');
 var noResults = document.getElementById('noResults');
 var titleOnly = document.getElementById('titleOnly');
+var discogsOnly = document.getElementById('discogsOnly');
 
 function escapeHtml(str) {
   return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -271,6 +275,7 @@ function renderTable(query) {
     var fields = [rec.matrix, rec.issue, rec.performer, rec.song, rec.composer, rec.ragam, rec.talam, rec.language, rec.date, rec.city, rec.originalTitle];
     var match = !q || fields.some(function(f) { return (f || '').toLowerCase().indexOf(q) !== -1; });
     if (match && titleOnly.checked && !rec.originalTitle) match = false;
+    if (match && discogsOnly.checked && !rec.discogs) match = false;
 
     if (!match) return;
     visibleCount++;
@@ -296,11 +301,12 @@ function renderTable(query) {
   });
 
   noResults.style.display = visibleCount === 0 ? 'block' : 'none';
-  resultCount.textContent = (q || titleOnly.checked) ? visibleCount + ' of ' + RECORDS.length + ' records' : RECORDS.length + ' records';
+  resultCount.textContent = (q || titleOnly.checked || discogsOnly.checked) ? visibleCount + ' of ' + RECORDS.length + ' records' : RECORDS.length + ' records';
 }
 
 searchInput.addEventListener('input', function() { renderTable(searchInput.value); });
 titleOnly.addEventListener('change', function() { renderTable(searchInput.value); });
+discogsOnly.addEventListener('change', function() { renderTable(searchInput.value); });
 
 var sortCol = -1, sortAsc = true;
 document.querySelectorAll('thead th[data-col]').forEach(function(th) {
