@@ -52,6 +52,42 @@
       padding: 1.5rem 1rem;
     }
 
+    .about-box {
+      position: relative;
+      background: linear-gradient(135deg, #f5ebe0 0%, #ede0d0 100%);
+      border-left: 4px solid var(--accent);
+      border-radius: 0 8px 8px 0;
+      padding: 1.2rem 1.4rem 1.2rem 1.4rem;
+      margin-bottom: -0.6rem;
+      z-index: 1;
+      box-shadow: 0 2px 8px rgba(107, 58, 42, 0.12);
+      font-size: 0.88rem;
+      line-height: 1.6;
+      color: #4a3728;
+    }
+
+    .about-box .about-label {
+      display: inline-block;
+      background: var(--accent);
+      color: #f5ebe0;
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      padding: 0.15rem 0.6rem;
+      border-radius: 3px;
+      margin-bottom: 0.5rem;
+    }
+
+    .about-box p {
+      margin: 0;
+    }
+
+    .about-box a {
+      color: var(--link);
+      font-weight: 600;
+    }
+
     .search-bar {
       display: flex;
       align-items: center;
@@ -198,11 +234,15 @@
 </header>
 
 <div class="container">
-  <div style="background: #f8f4ee; border: 1px solid #d4c5a9; border-radius: 6px; padding: 1rem 1.2rem; margin-bottom: 1.2rem; font-size: 0.9rem; line-height: 1.5; color: #4a3728;">
-    <strong>About:</strong> This catalogue of early Carnatic music 78 RPM gramophone records is sourced from the
-    <a href="https://gramophonecompanydiscography.com/" target="_blank" rel="noopener">Gramophone Company Discography</a>.
-    AI has been used to generate several entries including song identifications, ragam/talam, and composer attributions.
-    Although every effort has been made to ensure accuracy, there may be some discrepancies in these results.
+  <div class="about-box">
+    <div class="about-label">About</div>
+    <p>
+      This catalogue documents early Carnatic (South Indian classical) music recordings on 78 RPM gramophone records,
+      spanning <strong>1905&ndash;1916</strong>. The data is sourced from the
+      <a href="https://gramophonecompanydiscography.com/" target="_blank" rel="noopener">Gramophone Company Discography</a>.
+      AI has been used to generate several entries including song identifications, ragam/talam, and composer attributions.
+      Although every effort has been made to ensure accuracy, there may be some discrepancies in these results.
+    </p>
   </div>
   <div class="search-bar">
     <input type="text" id="search" placeholder="Search by performer, song, ragam, talam, matrix #, city&#8230;" autocomplete="off">
