@@ -248,13 +248,15 @@
     <input type="text" id="search" placeholder="Search by performer, song, ragam, talam, matrix #, city&#8230;" autocomplete="off">
     <span class="result-count" id="resultCount"></span>
   </div>
-  <div style="margin-bottom: 1rem;">
+  <div style="margin-bottom: 1rem; display: flex; flex-direction: column; gap: 0.3rem;">
     <label style="font-size: 0.9rem; cursor: pointer;">
       <input type="checkbox" id="titleOnly"> Show only records with a title
     </label>
-    <label style="font-size: 0.9rem; cursor: pointer; margin-left: 1.5rem;">
+    <label style="font-size: 0.9rem; cursor: pointer;">
       <input type="checkbox" id="discogsOnly"> Show only records with a Discogs entry
-    <label style="margin-left: 1.5em;"><input type="checkbox" id="audioOnly"> Show only records with audio</label>
+    </label>
+    <label style="font-size: 0.9rem; cursor: pointer;">
+      <input type="checkbox" id="audioOnly"> Show only records with audio
     </label>
   </div>
 
