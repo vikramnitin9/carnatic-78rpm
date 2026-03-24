@@ -372,7 +372,7 @@ document.querySelectorAll('thead th[data-col]').forEach(function(th) {
       sortCol = col;
       sortAsc = true;
     }
-    var keys = ['performer', 'song', 'composer', 'ragam', 'talam', 'language', 'date', 'city', 'originalTitle', '', '', 'matrix', 'issue'];
+    var keys = ['performer', 'song', 'composer', 'ragam', 'talam', 'language', 'date', 'city', 'originalTitle', 'matrix', 'issue'];
     var key = keys[col];
     RECORDS.sort(function(a, b) {
       var va = (a[key] || '').toLowerCase(), vb = (b[key] || '').toLowerCase();
