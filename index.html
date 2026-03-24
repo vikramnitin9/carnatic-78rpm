@@ -292,7 +292,7 @@ function renderTable(query) {
       '<td>' + highlightMatch(rec.language, q) + '</td>' +
       '<td>' + highlightMatch(rec.date, q) + '</td>' +
       '<td>' + highlightMatch(rec.city, q) + '</td>' +
-      '<td></td>' +
+      '<td>' + (rec.link ? '<a href="' + escapeHtml(rec.link) + '" target="_blank" rel="noopener">&#9835;</a>' : '') + '</td>' +
       '<td>' + highlightMatch(rec.originalTitle, q) + '</td>' +
       '<td>' + (rec.listing ? '<a href="' + escapeHtml(rec.listing) + '" target="_blank" rel="noopener">PDF</a>' : '') + '</td>' +
       '<td>' + (rec.discogs ? '<a href="' + escapeHtml(rec.discogs) + '" target="_blank" rel="noopener">Link</a>' : '') + '</td>';
