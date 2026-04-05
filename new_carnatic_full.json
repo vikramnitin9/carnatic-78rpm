@@ -1,0 +1,4069 @@
+[
+  {
+    "id": 22074799,
+    "status": "Accepted",
+    "year": 1925,
+    "resource_url": "https://api.discogs.com/releases/22074799",
+    "uri": "https://www.discogs.com/release/22074799-S-V-Subbiah-Bhagavathar-Arya-Gana-Sabha-\u0baa\u0ba4\u0ba4\u0bae\u0ba4\u0bb3\u0baf\u0bae\u0bb0\u0ba8\u0ba4\u0ba9\u0bb1",
+    "artists": [
+      {
+        "name": "S. V. Subbiah Bagavathar",
+        "anv": "S. V. Subbiah Bhagavathar, Arya Gana Sabha",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 6722989,
+        "resource_url": "https://api.discogs.com/artists/6722989",
+        "thumbnail_url": "https://i.discogs.com/Ym-W8iUH0iW-g5llaBoduzwc25WLy-lZvgOq8RZ9v9c/rs:fit/g:sm/q:90/h:448/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY3MjI5/ODktMTY0NTA3ODc5/My02NDM4LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "S. V. Subbiah Bagavathar",
+    "labels": [
+      {
+        "name": "His Master's Voice",
+        "catno": "N. 1707",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 37150,
+        "resource_url": "https://api.discogs.com/labels/37150",
+        "thumbnail_url": "https://i.discogs.com/rUOd_H-TXQrryPCGDusqv9KpLXvUihFrOOjRUcP4Aqw/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3MTUw/LTE0NTM1ODUwMzMt/NjgyNi5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Calcutta",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1132657,
+        "resource_url": "https://api.discogs.com/labels/1132657",
+        "thumbnail_url": "https://i.discogs.com/H3jmQkf1gAg5O_VZ8eygbXV2DUyqaA3rIoia4L_-9GA/rs:fit/g:sm/q:90/h:277/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMzI2/NTctMTUyNTIyNzQz/OC0zOTkxLmpwZWc.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 1,
+      "want": 2,
+      "rating": {
+        "count": 2,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-02-08T03:49:58-08:00",
+    "date_changed": "2022-10-02T01:45:45-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "master_id": 2807120,
+    "master_url": "https://api.discogs.com/masters/2807120",
+    "title": "\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bae\u0bcd\u0ba4\u0bc6\u0bb3\u0bbf\u0baf\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bca\u0ba9\u0bcd\u0bb1\u0bc1",
+    "country": "India",
+    "released": "1925",
+    "notes": "Tamil Carnatic songs sung by S, V. Subbiah Bagavathar\nText on Label is in Roman and Tamil\nA & B - Pittham Theliya Marundondru - From Drama Nandanar - Pts. 1 & 2\nSource: Matsumoto Ryuji\n",
+    "released_formatted": "1925",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "G.C.-19-12578",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G.C.-19-12579",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical",
+      "Folk"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bae\u0bcd\u0ba4\u0bc6\u0bb3\u0bbf\u0baf\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 - Senjuruti - From Nandanar Pt.1",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bae\u0bcd\u0ba4\u0bc6\u0bb3\u0bbf\u0baf\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 - Senjuruti - From Nandanar Pt.2",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "S. V. Subbiah Bagavathar",
+        "anv": "S. V. Subbiah Bhagavathar, Arya Gana Sabha",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 6722989,
+        "resource_url": "https://api.discogs.com/artists/6722989"
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pIjuiizPXp14NkKDJ7IeYEPtTucFnbcG_i8viDfMV0c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc0/Nzk5LTE2NDQzMjEx/OTUtNDMzMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/pIjuiizPXp14NkKDJ7IeYEPtTucFnbcG_i8viDfMV0c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc0/Nzk5LTE2NDQzMjEx/OTUtNDMzMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8okiKpcrAaMeIdUG5hUyzbZZt0CpfEr-MYzd14feJP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc0/Nzk5LTE2NDQzMjEx/OTUtNDMzMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DTZhR_bPF98etDvcegVauBjdd8e04zZNrzhFWzF4T98/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc0/Nzk5LTE2NDQzMjEx/OTQtMjEyMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/DTZhR_bPF98etDvcegVauBjdd8e04zZNrzhFWzF4T98/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc0/Nzk5LTE2NDQzMjEx/OTQtMjEyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LXaVUGu8ZXe97WPN4eMNzXdf-MWzQklzG8tTkzKEKiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc0/Nzk5LTE2NDQzMjEx/OTQtMjEyMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/8okiKpcrAaMeIdUG5hUyzbZZt0CpfEr-MYzd14feJP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc0/Nzk5LTE2NDQzMjEx/OTUtNDMzMy5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 29325514,
+    "status": "Accepted",
+    "year": 1933,
+    "resource_url": "https://api.discogs.com/releases/29325514",
+    "uri": "https://www.discogs.com/release/29325514-Miss-Subbalakshmi-Madura-\u0c28-\u0c38\u0c30-\u0c38\u0c2e\u0c28-\u0c35\u0c21\u0c1c\u0c32",
+    "artists": [
+      {
+        "name": "M.S. Subbulakshmi",
+        "anv": "Miss Subbalakshmi (Madura)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 971725,
+        "resource_url": "https://api.discogs.com/artists/971725",
+        "thumbnail_url": "https://i.discogs.com/qFe2c_x5xkBlz2JP8e1Y3nmPLH4jgfSSwVuNYRKxtH8/rs:fit/g:sm/q:90/h:600/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3MTcy/NS0xNTMzMjI4MDQ4/LTM4NTMuanBlZw.jpeg"
+      }
+    ],
+    "artists_sort": "M.S. Subbulakshmi",
+    "labels": [
+      {
+        "name": "The Twin",
+        "catno": "F.T. 2169",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 376319,
+        "resource_url": "https://api.discogs.com/labels/376319",
+        "thumbnail_url": "https://i.discogs.com/tcMZJ-7ThrAv5idLVzUaVmPXgFlx_P38nKKbwdWvufU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3NjMx/OS0xNTE5ODk2NDk0/LTg1MjUuanBlZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Twin Record Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "38",
+        "entity_type_name": "Manufactured For",
+        "id": 1131327,
+        "resource_url": "https://api.discogs.com/labels/1131327"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 1,
+      "want": 2,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2023-12-27T22:45:17-08:00",
+    "date_changed": "2023-12-27T22:47:49-08:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c28\u0c40 \u0c38\u0c30\u0c3f \u0c38\u0c2e\u0c3e\u0c28\u200b / \u0c35\u0c3f\u0c21\u0c1c\u0c3e\u0c32",
+    "country": "India",
+    "released": "1933",
+    "notes": "Telugu Carnatic Classical - Female Solo\nText on labels in Roman and Telugu\n",
+    "released_formatted": "1933",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OC - 2453",
+        "description": "Label Side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OC - 2454",
+        "description": "Label Side B"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Indian Classical",
+      "Carnatic"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Neesarisamana (Kalyani)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Vidajala (Janaranjani)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IMeNpHh1V5dftFOvnMRn5dmgv_W_oIYHvHtcnwQYWEU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NTE0LTE3MDM3NDYw/NjItMzgwMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/IMeNpHh1V5dftFOvnMRn5dmgv_W_oIYHvHtcnwQYWEU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NTE0LTE3MDM3NDYw/NjItMzgwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zPORHzftCPxyTTIti-dQul2q81iOR6hx17KfSzzrFR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NTE0LTE3MDM3NDYw/NjItMzgwMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MmId7EYdEdd-HpGMmuvE0RMQjeqqkUIIL-FaKrj_PLc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NTE0LTE3MDM3NDYw/NjMtNTM1MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/MmId7EYdEdd-HpGMmuvE0RMQjeqqkUIIL-FaKrj_PLc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NTE0LTE3MDM3NDYw/NjMtNTM1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fQ3opAzwa5ZsCBzi6GuRABvRT7gGmMIbGXLVKkkwGgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NTE0LTE3MDM3NDYw/NjMtNTM1MS5qcGVn.jpeg",
+        "width": 598,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/zPORHzftCPxyTTIti-dQul2q81iOR6hx17KfSzzrFR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NTE0LTE3MDM3NDYw/NjItMzgwMC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 20825470,
+    "status": "Accepted",
+    "year": 1934,
+    "resource_url": "https://api.discogs.com/releases/20825470",
+    "uri": "https://www.discogs.com/release/20825470-Miss-T-N-Manikkam-Tirugokarnam-\u0c24\u0c28\u0c2f\u0c28-\u0c2c\u0c30\u0c35",
+    "artists": [
+      {
+        "name": "T. N. Manikkam",
+        "anv": "Miss T. N. Manikkam (Tirugokarnam)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9900283,
+        "resource_url": "https://api.discogs.com/artists/9900283",
+        "thumbnail_url": "https://i.discogs.com/vilBMAgjcI0lbYdQZpbVJwIk7HWUpUhGTM0ElgVdm2Y/rs:fit/g:sm/q:90/h:365/w:260/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk5MDAy/ODMtMTYzMDIxODg1/Ni00NzMzLnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "T. N. Manikkam",
+    "labels": [
+      {
+        "name": "His Master's Voice",
+        "catno": "N. 8028",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 37150,
+        "resource_url": "https://api.discogs.com/labels/37150",
+        "thumbnail_url": "https://i.discogs.com/rUOd_H-TXQrryPCGDusqv9KpLXvUihFrOOjRUcP4Aqw/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3MTUw/LTE0NTM1ODUwMzMt/NjgyNi5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Calcutta",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1132657,
+        "resource_url": "https://api.discogs.com/labels/1132657",
+        "thumbnail_url": "https://i.discogs.com/H3jmQkf1gAg5O_VZ8eygbXV2DUyqaA3rIoia4L_-9GA/rs:fit/g:sm/q:90/h:277/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMzI2/NTctMTUyNTIyNzQz/OC0zOTkxLmpwZWc.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-11-02T09:07:02-07:00",
+    "date_changed": "2025-09-09T23:51:25-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c24\u0c28\u0c2f\u0c41\u0c28\u0c3f \u0c2c\u0c4d\u0c30\u0c4a\u0c35",
+    "country": "India",
+    "released": "1934",
+    "notes": "Carnatic telugu song by T. N. Manikkam\nText on label is in Roman and Telugu",
+    "released_formatted": "1934",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OC - 2430",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OC - 2431",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Thanayuni Brova Pt.1 (Bairavi)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Thanayuni Brova Pt.2 (Bairavi)",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "T. N. Manikkam",
+        "anv": "Miss T. N. Manikkam (Tirugokarnam)",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 9900283,
+        "resource_url": "https://api.discogs.com/artists/9900283"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/xEZyrF6PFxF0aEdlzPxb4LZ3z8KHTQKiv0EQxJqHp4M/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NDcwLTE3NTc0ODcw/NzEtODI4Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/xEZyrF6PFxF0aEdlzPxb4LZ3z8KHTQKiv0EQxJqHp4M/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NDcwLTE3NTc0ODcw/NzEtODI4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/37ODV5ZBDfoTKr1IGU-lLHnMRAQLvvzhlmF-o8H-p6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NDcwLTE3NTc0ODcw/NzEtODI4Ni5qcGVn.jpeg",
+        "width": 595,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/p-5Ux5X-bLVeF5ohIlLolgrudtGY1rrnABOTcTDgg_E/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NDcwLTE3NTc0ODcw/NzEtNTIxNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/p-5Ux5X-bLVeF5ohIlLolgrudtGY1rrnABOTcTDgg_E/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NDcwLTE3NTc0ODcw/NzEtNTIxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/x69q2gbXvZW6Qtb5aAk1IM5mSlBD6SDrQA6FU1VMu4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NDcwLTE3NTc0ODcw/NzEtNTIxNS5qcGVn.jpeg",
+        "width": 594,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/37ODV5ZBDfoTKr1IGU-lLHnMRAQLvvzhlmF-o8H-p6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NDcwLTE3NTc0ODcw/NzEtODI4Ni5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 20107030,
+    "status": "Accepted",
+    "year": 1934,
+    "resource_url": "https://api.discogs.com/releases/20107030",
+    "uri": "https://www.discogs.com/release/20107030-Raja-M-G-Dandapani-Naidu-Sri-Gunamani-Mada-Mohana-Manne-Vadi",
+    "artists": [
+      {
+        "name": "Raja M. G. Dandapani Naidu",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9931009,
+        "resource_url": "https://api.discogs.com/artists/9931009",
+        "thumbnail_url": "https://i.discogs.com/iVA7oZw0_PZIQWbqTXqLtulhd66b4IvJUzTIxIUOpD0/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk5MzEw/MDktMTYzNDYzODY1/Mi0zMjc0LnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "Raja M. G. Dandapani Naidu",
+    "labels": [
+      {
+        "name": "Tas-O-Phone",
+        "catno": "TS 8",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1760884,
+        "resource_url": "https://api.discogs.com/labels/1760884",
+        "thumbnail_url": "https://i.discogs.com/47ipZNHKSwgTcq4BBJJQPwFa2c-1fwz2akARqvnAB50/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3NjA4/ODQtMTYyODg3MTkx/OS0yNjk3LmpwZWc.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 1,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-09-03T21:19:00-07:00",
+    "date_changed": "2021-09-03T21:43:04-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "Sri Gunamani / Mada Mohana Manne Vadi",
+    "country": "India",
+    "released": "1934",
+    "notes": "Two carnatic songs by Dandapani Naidu\nText on label is in Tamil and Roman\nSource : Discs and Machines, Sunny's Gramophone Musuem",
+    "released_formatted": "1934",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "ME - 159",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ME - 175",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Sri Gunamani (Boori Kalyani)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Mada Mohana Manne Vadi (Harikambodi)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wqRiLqV4Y8F0t6DGu3GrHjKR3K4ubhhq0PNp-VgHIKM/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/MDMwLTE2MzA3Mjky/ODItNjQ5NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/wqRiLqV4Y8F0t6DGu3GrHjKR3K4ubhhq0PNp-VgHIKM/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/MDMwLTE2MzA3Mjky/ODItNjQ5NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/k_B1cLd16B3QEh5vhU6VNA6lW4Rqy4TFUZoyiIvSv4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/MDMwLTE2MzA3Mjky/ODItNjQ5NC5qcGVn.jpeg",
+        "width": 582,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cN5zbVKMLU2ExlQZNUcHq1HtNkOCCrwf36GT6cIYiHs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/MDMwLTE2MzA3Mjky/ODktNzcyMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/cN5zbVKMLU2ExlQZNUcHq1HtNkOCCrwf36GT6cIYiHs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/MDMwLTE2MzA3Mjky/ODktNzcyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Fm7YhUhrXHGprEvgyU5oRyrzVZkbzq9mznHiYUE_rio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/MDMwLTE2MzA3Mjky/ODktNzcyMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      }
+    ],
+    "thumb": "https://i.discogs.com/k_B1cLd16B3QEh5vhU6VNA6lW4Rqy4TFUZoyiIvSv4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/MDMwLTE2MzA3Mjky/ODItNjQ5NC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 34792556,
+    "status": "Accepted",
+    "year": 1934,
+    "resource_url": "https://api.discogs.com/releases/34792556",
+    "uri": "https://www.discogs.com/release/34792556-Mr-M-V-Subbiah-Naidu-\u0cae\u0ca6\u0cb0\u0cb5\u0ca3-\u0ca8\u0ca1-\u0ca6\u0cb5\u0cb8\u0ca6\u0caf",
+    "artists": [
+      {
+        "name": "Mr. M. V. Subbiah Naidu",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 16489140,
+        "resource_url": "https://api.discogs.com/artists/16489140"
+      }
+    ],
+    "artists_sort": "Mr. M. V. Subbiah Naidu",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "GE 219",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Columbia Graphophone Company Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 97841,
+        "resource_url": "https://api.discogs.com/labels/97841",
+        "thumbnail_url": "https://i.discogs.com/0gyXSnae7ooRTlPeGzkhOOdO_-fvy2w285vkOmbWbds/rs:fit/g:sm/q:90/h:159/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3ODQx/LTE1MTY2NTUwNjEt/NjQyOS5qcGVn.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2025-08-11T09:11:37-07:00",
+    "date_changed": "2025-08-11T09:13:53-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0cae\u0ca6\u0cc1\u0cb0\u0cb5\u0cc7\u0ca3\u0cbf / \u0ca8\u0ccb\u0ca1\u0cc1 \u0ca6\u0cbf\u0cb5\u0cb8\u0ca6\u0cbf\u0caf\u0c82",
+    "country": "India",
+    "released": "1934",
+    "notes": "Canarese Songs - Male solo\nMember of Sri Sahitya Samrajya Natak Mandali, Mysore\nWith Violin, Harmonium & Mirdhangam\nText on labels in Roman & Canarese",
+    "released_formatted": "1934",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "WEI 5307",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "WEI 5320",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Mathura Vani (Nagaveni)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Nodu Deva Nadhiyam (Kalyani)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7_V0BFcJ08nmTH7d1Mw4Hq9lhUdZIF7o4WWtQGd-_1Y/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzky/NTU2LTE3NTQ5Mjg4/MjQtNzg1NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/7_V0BFcJ08nmTH7d1Mw4Hq9lhUdZIF7o4WWtQGd-_1Y/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzky/NTU2LTE3NTQ5Mjg4/MjQtNzg1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KiQV1xgFGpZropJOBOkChjK6QL3NWPST5gmNiHwBEF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzky/NTU2LTE3NTQ5Mjg4/MjQtNzg1NC5qcGVn.jpeg",
+        "width": 595,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uGWsT15ZTmpkITm-hFYNmPOJoYMoegsFMaxPS9C4Bz0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzky/NTU2LTE3NTQ5Mjg4/MjUtODAwMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/uGWsT15ZTmpkITm-hFYNmPOJoYMoegsFMaxPS9C4Bz0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzky/NTU2LTE3NTQ5Mjg4/MjUtODAwMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/i0tBWpPGN-fVn8HNy-8ZBhPeBHlvTRBSTN7-_lgNsfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzky/NTU2LTE3NTQ5Mjg4/MjUtODAwMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      }
+    ],
+    "thumb": "https://i.discogs.com/KiQV1xgFGpZropJOBOkChjK6QL3NWPST5gmNiHwBEF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzky/NTU2LTE3NTQ5Mjg4/MjQtNzg1NC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 34738827,
+    "status": "Accepted",
+    "year": 1934,
+    "resource_url": "https://api.discogs.com/releases/34738827",
+    "uri": "https://www.discogs.com/release/34738827-V-V-Krishna-Bhagavathar-Valliyur-Tin-Dt-\u0baa\u0bb0\u0ba4\u0bb0\u0b95\u0b95\u0bae\u0b9f\u0baf\u0bb5\u0bb0",
+    "artists": [
+      {
+        "name": "V. V. Krishna Bhagavathar",
+        "anv": "V. V. Krishna Bhagavathar (Valliyur - Tin, Dt.)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 11981147,
+        "resource_url": "https://api.discogs.com/artists/11981147"
+      }
+    ],
+    "artists_sort": "V. V. Krishna Bhagavathar",
+    "labels": [
+      {
+        "name": "His Master's Voice",
+        "catno": "N. 8078",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 37150,
+        "resource_url": "https://api.discogs.com/labels/37150",
+        "thumbnail_url": "https://i.discogs.com/rUOd_H-TXQrryPCGDusqv9KpLXvUihFrOOjRUcP4Aqw/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3MTUw/LTE0NTM1ODUwMzMt/NjgyNi5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Calcutta",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1132657,
+        "resource_url": "https://api.discogs.com/labels/1132657",
+        "thumbnail_url": "https://i.discogs.com/H3jmQkf1gAg5O_VZ8eygbXV2DUyqaA3rIoia4L_-9GA/rs:fit/g:sm/q:90/h:277/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMzI2/NTctMTUyNTIyNzQz/OC0zOTkxLmpwZWc.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2025-08-05T03:22:17-07:00",
+    "date_changed": "2025-08-05T03:24:47-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd",
+    "country": "India",
+    "released": "1934",
+    "notes": "Tamil Song - Male Solo\nText in Roman and Tamil on the labels",
+    "released_formatted": "1934",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OE - 2095",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OE - 2096",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Peratharikkum Adiyavar, Pt. 1 (Pillaithamizh)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Peratharikkum Adiyavar, Pt. 2 (Pillaithamizh)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UNFWTo5SqkDA8U9SdilrByeFGNep1305N32KQFtBeFQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzM4/ODI3LTE3NTQzODk0/NzgtMTI5MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/UNFWTo5SqkDA8U9SdilrByeFGNep1305N32KQFtBeFQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzM4/ODI3LTE3NTQzODk0/NzgtMTI5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yu--k3WEs3qYRfbL_zkZ8Nrmoq3WrOPrVOHQ2o7SnyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzM4/ODI3LTE3NTQzODk0/NzgtMTI5MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0_iTjiAX0qBE2TNcdSrZRexMilgU_Sy0QZH2GFKV4jk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzM4/ODI3LTE3NTQzODk0/NzctMTY5OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/0_iTjiAX0qBE2TNcdSrZRexMilgU_Sy0QZH2GFKV4jk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzM4/ODI3LTE3NTQzODk0/NzctMTY5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Jth1SFVdEcunAaSAbhYb41vFLBXa7j7PEzMXUyB4FPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzM4/ODI3LTE3NTQzODk0/NzctMTY5OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      }
+    ],
+    "thumb": "https://i.discogs.com/yu--k3WEs3qYRfbL_zkZ8Nrmoq3WrOPrVOHQ2o7SnyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzM4/ODI3LTE3NTQzODk0/NzgtMTI5MC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 33376763,
+    "status": "Accepted",
+    "year": 1934,
+    "resource_url": "https://api.discogs.com/releases/33376763",
+    "uri": "https://www.discogs.com/release/33376763-Miss-D-R-Muthulakshmi-Madura-\u0c35\u0c30\u0c28\u0c30\u0c27\u0c28\u0c30\u0c2f\u0c23-\u0c35\u0c33\u0c32\u0c28\u0c2f\u0c15\u0c28",
+    "artists": [
+      {
+        "name": "Miss D. R. Muthulakshmi",
+        "anv": "Miss D. R. Muthulakshmi, Madura",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 10088650,
+        "resource_url": "https://api.discogs.com/artists/10088650"
+      }
+    ],
+    "artists_sort": "Miss D. R. Muthulakshmi",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "VE 46",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [
+      {
+        "name": "Special South Indian Recording",
+        "catno": "",
+        "entity_type": "2",
+        "entity_type_name": "Series",
+        "id": 1522989,
+        "resource_url": "https://api.discogs.com/labels/1522989"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Columbia Graphophone Company Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 97841,
+        "resource_url": "https://api.discogs.com/labels/97841",
+        "thumbnail_url": "https://i.discogs.com/0gyXSnae7ooRTlPeGzkhOOdO_-fvy2w285vkOmbWbds/rs:fit/g:sm/q:90/h:159/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3ODQx/LTE1MTY2NTUwNjEt/NjQyOS5qcGVn.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2025-03-11T06:05:55-07:00",
+    "date_changed": "2025-03-11T06:07:50-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c35\u0c30\u0c28\u0c3e\u0c30\u0c27\u0c28\u0c3e\u0c30\u0c3e\u0c2f\u0c23\u0c3e / \u0c35\u0c33\u0c4d\u0c32\u0c40\u0c28\u0c3e\u0c2f\u0c15\u0c28\u0c47",
+    "country": "India",
+    "released": "1934",
+    "notes": "Telugu Classical by - Miss D. R. Muthulakshmi, Madura (Speed 78)\nWith Harmonium and Mirdhangam\nText in Roman and Telugu on the labels",
+    "released_formatted": "1934",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "WEI 953",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "WEI 954",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Varanaradha-Narayana (Vijayasri) ",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Valli-Nayakame (Shanmugapriya)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EqdxEuGSfNYTFkB1HWJmEBB8u9QivCYQXibF1MtaOo4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/NzYzLTE3NDE2OTg0/NTgtNTU4NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/EqdxEuGSfNYTFkB1HWJmEBB8u9QivCYQXibF1MtaOo4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/NzYzLTE3NDE2OTg0/NTgtNTU4NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3Q5wFS3NbOTzSdsu4RL4nn-9n4lb-tWCYF3-cry8Gws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/NzYzLTE3NDE2OTg0/NTgtNTU4NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tNvobB1u24SX59a-2U-SUEFHT1L92Y3vEyNNypNGoE8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/NzYzLTE3NDE2OTg0/NTgtMzA0MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/tNvobB1u24SX59a-2U-SUEFHT1L92Y3vEyNNypNGoE8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/NzYzLTE3NDE2OTg0/NTgtMzA0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YA0IAd_TyNWX4X2Mu5EnaiXh7y2JNWNjMwzv6cZRwZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/NzYzLTE3NDE2OTg0/NTgtMzA0MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      }
+    ],
+    "thumb": "https://i.discogs.com/3Q5wFS3NbOTzSdsu4RL4nn-9n4lb-tWCYF3-cry8Gws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/NzYzLTE3NDE2OTg0/NTgtNTU4NC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 27548793,
+    "status": "Accepted",
+    "year": 1934,
+    "resource_url": "https://api.discogs.com/releases/27548793",
+    "uri": "https://www.discogs.com/release/27548793-D-Srinivasa-Chari-Chittoor-\u0926\u0936\u0935\u0924\u0930\u092e",
+    "artists": [
+      {
+        "name": "D. Srinivasa Chari",
+        "anv": "D. Srinivasa Chari (Chittoor)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 13195146,
+        "resource_url": "https://api.discogs.com/artists/13195146"
+      }
+    ],
+    "artists_sort": "D. Srinivasa Chari",
+    "labels": [
+      {
+        "name": "The Twin",
+        "catno": "F.T. 2629",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 376319,
+        "resource_url": "https://api.discogs.com/labels/376319",
+        "thumbnail_url": "https://i.discogs.com/tcMZJ-7ThrAv5idLVzUaVmPXgFlx_P38nKKbwdWvufU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3NjMx/OS0xNTE5ODk2NDk0/LTg1MjUuanBlZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Twin Record Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "38",
+        "entity_type_name": "Manufactured For",
+        "id": 1131327,
+        "resource_url": "https://api.discogs.com/labels/1131327"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2023-07-01T09:45:49-07:00",
+    "date_changed": "2023-07-01T09:49:30-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0926\u0936\u093e\u0935\u0924\u093e\u0930\u092e\u094d",
+    "country": "India",
+    "released": "1934",
+    "notes": "Sanskrit Carnatic Classical - Male Solo\nText in Roman and Devanagari",
+    "released_formatted": "1934",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OC -  3863",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OC - 3864",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Dasawatharam , Pt. 1 (Ragamalika)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Dasawatharam , Pt. 1 (Ragamalika)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WXlYfYLurmTnS50RQK_rwPvjWwKLqmxM_O7m6X8XRSg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ4/NzkzLTE2ODgyMzAx/NDAtODgzMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/WXlYfYLurmTnS50RQK_rwPvjWwKLqmxM_O7m6X8XRSg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ4/NzkzLTE2ODgyMzAx/NDAtODgzMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZdIyCvjaBOqBTj1ncqy6S5YqW3dMXm0thEBx6WApC88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ4/NzkzLTE2ODgyMzAx/NDAtODgzMy5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8oeQBlvdZrxHVY14tJZ0k0YwYpvEqHoKGLChGAcf1zg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ4/NzkzLTE2ODgyMzAx/NDAtMjM0OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/8oeQBlvdZrxHVY14tJZ0k0YwYpvEqHoKGLChGAcf1zg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ4/NzkzLTE2ODgyMzAx/NDAtMjM0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/NsoQQS5c5ZFsauW10kr_UVq4NlRjUJHxNAqmBH8zL0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ4/NzkzLTE2ODgyMzAx/NDAtMjM0OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      }
+    ],
+    "thumb": "https://i.discogs.com/ZdIyCvjaBOqBTj1ncqy6S5YqW3dMXm0thEBx6WApC88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ4/NzkzLTE2ODgyMzAx/NDAtODgzMy5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 22532675,
+    "status": "Accepted",
+    "year": 1936,
+    "resource_url": "https://api.discogs.com/releases/22532675",
+    "uri": "https://www.discogs.com/release/22532675-Miss-T-N-Manikkam-Thirugokarnam-\u0c0e\u0c1f\u0c1f-\u0c26\u0c30\u0c15\u0c24\u0c35",
+    "artists": [
+      {
+        "name": "T. N. Manikkam",
+        "anv": "Miss T. N. Manikkam (Thirugokarnam)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9900283,
+        "resource_url": "https://api.discogs.com/artists/9900283",
+        "thumbnail_url": "https://i.discogs.com/vilBMAgjcI0lbYdQZpbVJwIk7HWUpUhGTM0ElgVdm2Y/rs:fit/g:sm/q:90/h:365/w:260/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk5MDAy/ODMtMTYzMDIxODg1/Ni00NzMzLnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "T. N. Manikkam",
+    "labels": [
+      {
+        "name": "His Master's Voice",
+        "catno": "N. 8506",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 37150,
+        "resource_url": "https://api.discogs.com/labels/37150",
+        "thumbnail_url": "https://i.discogs.com/rUOd_H-TXQrryPCGDusqv9KpLXvUihFrOOjRUcP4Aqw/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3MTUw/LTE0NTM1ODUwMzMt/NjgyNi5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1131963,
+        "resource_url": "https://api.discogs.com/labels/1131963"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-03-16T09:00:18-07:00",
+    "date_changed": "2022-03-16T09:02:33-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c0e\u0c1f\u0c4d\u0c1f \u0c26\u0c4a\u0c30\u0c15\u0c40\u0c24\u0c3f\u0c35\u0c4a",
+    "country": "India",
+    "released": "1936",
+    "notes": "Carnatic telugu song by T. N. Manikkam\nText on label is in Roman and Telugu\nSource: Ramulu",
+    "released_formatted": "1936",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OC - 4041",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OC - 4042",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Etta Dorakithivo, Part 1",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Etta Dorakithivo, Part 2",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "T. N. Manikkam",
+        "anv": "Miss T. N. Manikkam (Thirugokarnam)",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 9900283,
+        "resource_url": "https://api.discogs.com/artists/9900283"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/TtyLkwef8X4jLoNNi-i0ks2RNzYkDo8gbGyhZKSkZRg/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMy/Njc1LTE2NDc0NDY1/MjctNjM1NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/TtyLkwef8X4jLoNNi-i0ks2RNzYkDo8gbGyhZKSkZRg/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMy/Njc1LTE2NDc0NDY1/MjctNjM1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mldum9M7VW6fW6VeqWp7qtB0Qq6rcPfKsuzveKrCaU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMy/Njc1LTE2NDc0NDY1/MjctNjM1NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 569
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Uj7ShgTOLt4OghxQMlnFtzypkj0czPYBuMCtwBUyrUg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMy/Njc1LTE2NDc0NDY1/MjgtMjg4OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Uj7ShgTOLt4OghxQMlnFtzypkj0czPYBuMCtwBUyrUg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMy/Njc1LTE2NDc0NDY1/MjgtMjg4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/l8YhQhqSf_53BgbQBww-Kc0bqtT6t5vA-AZmyImfKKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMy/Njc1LTE2NDc0NDY1/MjgtMjg4OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 588
+      }
+    ],
+    "thumb": "https://i.discogs.com/mldum9M7VW6fW6VeqWp7qtB0Qq6rcPfKsuzveKrCaU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMy/Njc1LTE2NDc0NDY1/MjctNjM1NS5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 12979809,
+    "status": "Accepted",
+    "year": 1937,
+    "resource_url": "https://api.discogs.com/releases/12979809",
+    "uri": "https://www.discogs.com/release/12979809-Chembai-Vaidyanatha-Bhagavatar-Chalmela-Bhananevaye",
+    "artists": [
+      {
+        "name": "Chembai Vaidyanatha Bhagavatar",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3342124,
+        "resource_url": "https://api.discogs.com/artists/3342124",
+        "thumbnail_url": "https://i.discogs.com/LqX2rdl5VGDAYHwxhGC2OsQQjKTP54BZdt3gcz8dR3g/rs:fit/g:sm/q:90/h:307/w:220/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzNDIx/MjQtMTM3MTY2NTQ1/My0xOTUwLmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "Chembai Vaidyanatha Bhagavatar",
+    "labels": [
+      {
+        "name": "Broadcast (4)",
+        "catno": "G 2437",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1166733,
+        "resource_url": "https://api.discogs.com/labels/1166733",
+        "thumbnail_url": "https://i.discogs.com/0E1ytafDSyk8Q1PNQC0yo-rkpr7BnG-h7F1zEkNmgWE/rs:fit/g:sm/q:90/h:306/w:532/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNjY3/MzMtMTUxNzgzNjIw/Ni0xNjM3LnBuZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Musical Products Ltd. Madras",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 785050,
+        "resource_url": "https://api.discogs.com/labels/785050"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 5,
+      "rating": {
+        "count": 0,
+        "average": 0.0
+      },
+      "submitter": {
+        "username": "surchand",
+        "resource_url": "https://api.discogs.com/users/surchand"
+      },
+      "contributors": [
+        {
+          "username": "surchand",
+          "resource_url": "https://api.discogs.com/users/surchand"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2018-12-25T20:49:31-08:00",
+    "date_changed": "2020-08-08T10:09:30-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "Chalmela / Bhananevaye",
+    "country": "India",
+    "released": "1937",
+    "notes": "The Long Playing Record\nMale solo - Carnatic classical vocal\nText on label in Roman & Tamil\n\nAudio posted at\n\nA - https://archive.org/details/g-2437-a-jm-2372-1-chalmela-sankarabharanam-chembai-vaidyanatha-bhagvatar_202008\nB - https://archive.org/details/g-2437-b-jm-2373-bhananevaye-kedaram-chembai-vaidyanatha-bhagvatar\n",
+    "released_formatted": "1937",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "G 2437-A JM. 2372/1",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "G 2437-B JM. 2373",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Indian Classical",
+      "Carnatic"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Chalmela - Sankarabharanam -1 ",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Bhananevaye - Kedaram - 2",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Chembai Vaidyanatha Bhagavatar",
+        "anv": "",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 3342124,
+        "resource_url": "https://api.discogs.com/artists/3342124"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ZL9pPuTWTZRkWrcluAAocGwJEvs493jgSmnLEkQrrsQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/ODA5LTE1OTY5MDMy/NjEtMjAxNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ZL9pPuTWTZRkWrcluAAocGwJEvs493jgSmnLEkQrrsQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/ODA5LTE1OTY5MDMy/NjEtMjAxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GGE98ggDhXlSs2CaOMl6nKnVctKcficZrazUSA2igBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/ODA5LTE1OTY5MDMy/NjEtMjAxNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LDYbJVwTU2iZ_WuPvY8tn7m7DrQ4E2WmRdleAKe0oX4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/ODA5LTE1OTY5MDMy/NTktODUzMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/LDYbJVwTU2iZ_WuPvY8tn7m7DrQ4E2WmRdleAKe0oX4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/ODA5LTE1OTY5MDMy/NTktODUzMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GMIGOJc3OCZNcvwvFRkXw3ctP9Tu1SM5-lLxHams08k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/ODA5LTE1OTY5MDMy/NTktODUzMC5qcGVn.jpeg",
+        "width": 597,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/GGE98ggDhXlSs2CaOMl6nKnVctKcficZrazUSA2igBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/ODA5LTE1OTY5MDMy/NjEtMjAxNC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 15802968,
+    "status": "Accepted",
+    "year": 1937,
+    "resource_url": "https://api.discogs.com/releases/15802968",
+    "uri": "https://www.discogs.com/release/15802968-Desamangalam-Subramania-Iyer-Ragam-Swararagasudha",
+    "artists": [
+      {
+        "name": "Desamangalam Subramania Iyer",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4933271,
+        "resource_url": "https://api.discogs.com/artists/4933271",
+        "thumbnail_url": "https://i.discogs.com/FQpUcJC_G9qXLzKkKmWMwba8SAjkQE50gJOCQpkmw1M/rs:fit/g:sm/q:90/h:350/w:275/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ5MzMy/NzEtMTYyOTE3ODA2/MC02NTkxLmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "Desamangalam Subramania Iyer",
+    "labels": [
+      {
+        "name": "Odeon",
+        "catno": "B A 402",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 33930,
+        "resource_url": "https://api.discogs.com/labels/33930",
+        "thumbnail_url": "https://i.discogs.com/bP2rUVIsiRH22EN1r6xijFQsJJrwv92I4TE9h7k_y1M/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4Mjc1/LTExNTQ1MzYyODAu/anBlZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 4,
+      "rating": {
+        "count": 0,
+        "average": 0.0
+      },
+      "submitter": {
+        "username": "surchand",
+        "resource_url": "https://api.discogs.com/users/surchand"
+      },
+      "contributors": [
+        {
+          "username": "surchand",
+          "resource_url": "https://api.discogs.com/users/surchand"
+        },
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2020-08-22T01:36:54-07:00",
+    "date_changed": "2021-08-16T22:29:40-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "master_id": 2259166,
+    "master_url": "https://api.discogs.com/masters/2259166",
+    "title": "Ragam / Swararagasudha",
+    "country": "India",
+    "released": "1937",
+    "notes": "Instrumental - Veena\nText on labels in Roman & Telugu\n\nAudio posted at - https://archive.org/details/ba-402-md-1089\nAudio Restoration by - Laszlo Hortobagyi, Budapest, Hungary\nDisc Source Courtesy - Sunny's Museum of Discs & Machines, Kerala, India",
+    "released_formatted": "1937",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "MD. 686",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MD. 1089",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Indian Classical",
+      "Carnatic"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Ragam Part I - Sankarabharanam ",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Swararagasudha, Part II - Sankarabharanam ",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Avg6Y-kXbSTqB37Bma4h38Z6-pEEyd5ofN3sWD1IRxQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTEtODI5MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Avg6Y-kXbSTqB37Bma4h38Z6-pEEyd5ofN3sWD1IRxQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTEtODI5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/PGUitLZwOKCTEvO7wvXG63-tbsLfYfUTaxxrmsekTWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTEtODI5MC5qcGVn.jpeg",
+        "width": 593,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-7Q04m8g4GVlHyPDAeZITwZcxAU-lFnalpYO8mkS0L4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTEtMTU3Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/-7Q04m8g4GVlHyPDAeZITwZcxAU-lFnalpYO8mkS0L4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTEtMTU3Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bed9b2s2INMU9v-2o-zRhAIbKwdqvrBndI5z0JWj1Qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTEtMTU3Ny5qcGVn.jpeg",
+        "width": 590,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QVJ2AvIunz4Q1KG3XyIIYd1fHk3j6I4KYHkxSaOyi8o/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTgtNDYzOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/QVJ2AvIunz4Q1KG3XyIIYd1fHk3j6I4KYHkxSaOyi8o/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTgtNDYzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/PhjRVi8976yFtQvp3nCejx5EQ_ZvAdh2KGwpj8oJmGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTgtNDYzOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 296
+      }
+    ],
+    "thumb": "https://i.discogs.com/PGUitLZwOKCTEvO7wvXG63-tbsLfYfUTaxxrmsekTWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTY4LTE1OTgwODY2/OTEtODI5MC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 19927888,
+    "status": "Accepted",
+    "year": 1937,
+    "resource_url": "https://api.discogs.com/releases/19927888",
+    "uri": "https://www.discogs.com/release/19927888-Sangeetha-Vidwan-B-S-Raja-Iyengar-Mysore-Raghuvamsa-Sudha",
+    "artists": [
+      {
+        "name": "Raja Iyengar",
+        "anv": "Sangeetha Vidwan B. S. Raja Iyengar (Mysore)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 7515279,
+        "resource_url": "https://api.discogs.com/artists/7515279",
+        "thumbnail_url": "https://i.discogs.com/rZb_yILD__5rnfqmTBnzJx3b4Vi7RxxEJrt8oKA4ggA/rs:fit/g:sm/q:90/h:141/w:264/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1MTUy/NzktMTYxNzA5Mzkz/OC05MDU3LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "Raja Iyengar",
+    "labels": [
+      {
+        "name": "Odeon",
+        "catno": "CA 835",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 33930,
+        "resource_url": "https://api.discogs.com/labels/33930",
+        "thumbnail_url": "https://i.discogs.com/bP2rUVIsiRH22EN1r6xijFQsJJrwv92I4TE9h7k_y1M/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4Mjc1/LTExNTQ1MzYyODAu/anBlZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 3,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-08-20T04:29:16-07:00",
+    "date_changed": "2021-08-20T04:33:27-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "Raghuvamsa Sudha",
+    "country": "India",
+    "released": "1937",
+    "notes": "Telugu - Male Solo\nText on labels in Roman & Telugu",
+    "released_formatted": "1937",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "MD - 2239",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MD - 2240",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Raghuvamsa Sudha, Part 1 (Kathankuthukalam)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Raghuvamsa Sudha, Part 2 (Kathankuthukalam)",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Raja Iyengar",
+        "anv": "Sangeetha Vidwan B. S. Raja Iyengar (Mysore)",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 7515279,
+        "resource_url": "https://api.discogs.com/artists/7515279"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ZTAh1QJtcpichCv2r-1bC-ETUh3ZrgIp2B2rgF120Bs/rs:fit/g:sm/q:90/h:417/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI3/ODg4LTE2Mjk0NTkx/NzgtNzQ1Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ZTAh1QJtcpichCv2r-1bC-ETUh3ZrgIp2B2rgF120Bs/rs:fit/g:sm/q:90/h:417/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI3/ODg4LTE2Mjk0NTkx/NzgtNzQ1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/6jb0YBE5xswJfm3vNLwZb22knjWZDcz8VQUL510qmh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI3/ODg4LTE2Mjk0NTkx/NzgtNzQ1Mi5qcGVn.jpeg",
+        "width": 411,
+        "height": 417
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4HVfbUH2VLewsmCw4H7Py05GE_qhrqVDFgYOw38yyS8/rs:fit/g:sm/q:90/h:413/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI3/ODg4LTE2Mjk0NTkx/NzgtODc4MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/4HVfbUH2VLewsmCw4H7Py05GE_qhrqVDFgYOw38yyS8/rs:fit/g:sm/q:90/h:413/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI3/ODg4LTE2Mjk0NTkx/NzgtODc4MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tAh6QuCqUOKYmqaHLX58VJBgY1g1uQHrZrpciVD2G7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI3/ODg4LTE2Mjk0NTkx/NzgtODc4MS5qcGVn.jpeg",
+        "width": 421,
+        "height": 413
+      }
+    ],
+    "thumb": "https://i.discogs.com/6jb0YBE5xswJfm3vNLwZb22knjWZDcz8VQUL510qmh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI3/ODg4LTE2Mjk0NTkx/NzgtNzQ1Mi5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 18081361,
+    "status": "Accepted",
+    "year": 1937,
+    "resource_url": "https://api.discogs.com/releases/18081361",
+    "uri": "https://www.discogs.com/release/18081361-Sangeetha-Vidwan-B-S-Raja-Iyengar-Mysore-Enthuna-Bannibay-Ethakinna-Nee-Ninha",
+    "artists": [
+      {
+        "name": "Raja Iyengar",
+        "anv": "Sangeetha Vidwan B. S. Raja Iyengar Mysore",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 7515279,
+        "resource_url": "https://api.discogs.com/artists/7515279",
+        "thumbnail_url": "https://i.discogs.com/rZb_yILD__5rnfqmTBnzJx3b4Vi7RxxEJrt8oKA4ggA/rs:fit/g:sm/q:90/h:141/w:264/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1MTUy/NzktMTYxNzA5Mzkz/OC05MDU3LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "Raja Iyengar",
+    "labels": [
+      {
+        "name": "Odeon",
+        "catno": "CA. 558",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 33930,
+        "resource_url": "https://api.discogs.com/labels/33930",
+        "thumbnail_url": "https://i.discogs.com/bP2rUVIsiRH22EN1r6xijFQsJJrwv92I4TE9h7k_y1M/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4Mjc1/LTExNTQ1MzYyODAu/anBlZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 2,
+      "rating": {
+        "count": 0,
+        "average": 0.0
+      },
+      "submitter": {
+        "username": "surchand",
+        "resource_url": "https://api.discogs.com/users/surchand"
+      },
+      "contributors": [
+        {
+          "username": "surchand",
+          "resource_url": "https://api.discogs.com/users/surchand"
+        },
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-03-30T11:21:24-07:00",
+    "date_changed": "2021-08-16T02:52:50-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "Enthuna Bannibay / Ethakinna Nee Ninha",
+    "country": "India",
+    "released": "1937",
+    "notes": "Canarese - Male Solo\nText on labels in Roman & Canarese",
+    "released_formatted": "1937",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "MD. 330",
+        "description": "Matrix on Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MD. 334",
+        "description": "Matrix on Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Enthuna Bannibay",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Ethakinna Nee Ninha",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Raja Iyengar",
+        "anv": "Sangeetha Vidwan B. S. Raja Iyengar Mysore",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 7515279,
+        "resource_url": "https://api.discogs.com/artists/7515279"
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lIEHGohA_pj2FaVLZDPIjQVzqEjquPBe4ijqLs0o5dU/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgx/MzYxLTE2MTcxMjg1/MTYtOTg2My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lIEHGohA_pj2FaVLZDPIjQVzqEjquPBe4ijqLs0o5dU/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgx/MzYxLTE2MTcxMjg1/MTYtOTg2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/q3CfGBmHImwv8vM7sMU7iWFbsHNuQqIqSE0SItp_L-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgx/MzYxLTE2MTcxMjg1/MTYtOTg2My5qcGVn.jpeg",
+        "width": 600,
+        "height": 579
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OdRG0QCUNpfewHX8fb5nAqdXCVSyeS98jy9LzP_TEWc/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgx/MzYxLTE2MTcxMjg1/MTYtNzE2Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/OdRG0QCUNpfewHX8fb5nAqdXCVSyeS98jy9LzP_TEWc/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgx/MzYxLTE2MTcxMjg1/MTYtNzE2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/v5S-iDJyIFvnEe2viBjPXmRvdKK7IGtDYTqa7UlpS-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgx/MzYxLTE2MTcxMjg1/MTYtNzE2Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 573
+      }
+    ],
+    "thumb": "https://i.discogs.com/q3CfGBmHImwv8vM7sMU7iWFbsHNuQqIqSE0SItp_L-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgx/MzYxLTE2MTcxMjg1/MTYtOTg2My5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 27617682,
+    "status": "Accepted",
+    "year": 1938,
+    "resource_url": "https://api.discogs.com/releases/27617682",
+    "uri": "https://www.discogs.com/release/27617682-Bai-Sitabai-Of-Devar-Hubli-\u0cb8\u0ca8\u0cae\u0ca8-\u0cb8\u0ca4\u0cb0\u0c9c\u0c9e\u0ca8-\u0cb5\u0cae\u0ca6\u0cb5-\u0cb8\u0cac-",
+    "artists": [
+      {
+        "name": "Bai Sitabai Of Devar Hubli",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 8161048,
+        "resource_url": "https://api.discogs.com/artists/8161048"
+      }
+    ],
+    "artists_sort": "Bai Sitabai Of Devar Hubli",
+    "labels": [
+      {
+        "name": "The Twin",
+        "catno": "FT. 3162",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 376319,
+        "resource_url": "https://api.discogs.com/labels/376319",
+        "thumbnail_url": "https://i.discogs.com/tcMZJ-7ThrAv5idLVzUaVmPXgFlx_P38nKKbwdWvufU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3NjMx/OS0xNTE5ODk2NDk0/LTg1MjUuanBlZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Twin Record Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "38",
+        "entity_type_name": "Manufactured For",
+        "id": 1131327,
+        "resource_url": "https://api.discogs.com/labels/1131327"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2023-07-08T09:23:44-07:00",
+    "date_changed": "2023-07-08T09:27:53-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0cb8\u0ca8\u0ccd\u0cae\u0cbe\u0ca8 \u0cb8\u0ccd\u0ca4\u0ccd\u0cb0\u0cc0\u0c9c\u0ccd\u0c9e\u0cbe\u0ca8 / \u0cb5\u0cbe\u0cae\u0ca6\u0cc7\u0cb5 \u0cb8\u0cbe\u0c82\u0cac\u0cbe ",
+    "country": "India",
+    "released": "1938",
+    "notes": "Canarese Classical - Female Solo\nText In Roman & Canarese on the labels\n\nA - Sanmana Strijnyana - Bhimpalas \nB - Vamadeva Samba - Bageshri",
+    "released_formatted": "1938",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OE 1846",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OE 1848",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "\u0cb8\u0ca8\u0ccd\u0cae\u0cbe\u0ca8 \u0cb8\u0ccd\u0ca4\u0ccd\u0cb0\u0cc0\u0c9c\u0ccd\u0c9e\u0cbe\u0ca8 - \u0cad\u0cc0\u0cae\u0caa\u0cb2\u0cbe\u0cb8 ",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "\u0cb5\u0cbe\u0cae\u0ca6\u0cc7\u0cb5 \u0cb8\u0cbe\u0c82\u0cac\u0cbe - \u0cac\u0cbe\u0c97\u0cc6\u0cb6\u0ccd\u0cb0\u0cc0",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PkAmR3NuXdGIxNxgUBInt4AQE6Gm_x1Xs58Is8O9E3c/rs:fit/g:sm/q:90/h:597/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/NjgyLTE2ODg4MzM2/MzItNjk1MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/PkAmR3NuXdGIxNxgUBInt4AQE6Gm_x1Xs58Is8O9E3c/rs:fit/g:sm/q:90/h:597/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/NjgyLTE2ODg4MzM2/MzItNjk1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4L3dbIm_Rn73PWUtZToNDYqxHsMWq2MocKT8gJYRU6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/NjgyLTE2ODg4MzM2/MzItNjk1MC5qcGVn.jpeg",
+        "width": 596,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/48o1K6feNlOBz9ghnghvI01oe21zDqcNkH_Ztrgfdmc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/NjgyLTE2ODg4MzM2/MzItODgwMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/48o1K6feNlOBz9ghnghvI01oe21zDqcNkH_Ztrgfdmc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/NjgyLTE2ODg4MzM2/MzItODgwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MWcI16Pb5c4Kc5zODYYnpWyVT23rwJXHC4K1vsYcrF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/NjgyLTE2ODg4MzM2/MzItODgwMC5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/4L3dbIm_Rn73PWUtZToNDYqxHsMWq2MocKT8gJYRU6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/NjgyLTE2ODg4MzM2/MzItNjk1MC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 22719404,
+    "status": "Accepted",
+    "year": 1938,
+    "resource_url": "https://api.discogs.com/releases/22719404",
+    "uri": "https://www.discogs.com/release/22719404-Mr-P-S-Krishnaswamy-Iyengar-\u0ba4\u0bb0\u0baa\u0baa\u0bb5",
+    "artists": [
+      {
+        "name": "Mr. P. S. Krishnaswamy Iyengar",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 11025407,
+        "resource_url": "https://api.discogs.com/artists/11025407"
+      }
+    ],
+    "artists_sort": "Mr. P. S. Krishnaswamy Iyengar",
+    "labels": [
+      {
+        "name": "His Master's Voice",
+        "catno": "N 8279",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 37150,
+        "resource_url": "https://api.discogs.com/labels/37150",
+        "thumbnail_url": "https://i.discogs.com/rUOd_H-TXQrryPCGDusqv9KpLXvUihFrOOjRUcP4Aqw/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3MTUw/LTE0NTM1ODUwMzMt/NjgyNi5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1131963,
+        "resource_url": "https://api.discogs.com/labels/1131963"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-04-01T00:27:10-07:00",
+    "date_changed": "2025-07-25T00:20:30-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc8",
+    "country": "India",
+    "released": "1938",
+    "notes": "Tamil Devotional - Thiruppavai - Male Solo\nText on label is in Roman and Tamil",
+    "released_formatted": "1938",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OE - 5014",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OE - 5015",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Thirupavai, Part 3",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Thirupavai, Part 4",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3wWOCSH2qAqHLkmqPQJnCvIlS1HG2j0STdCvuMeIXIE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE5/NDA0LTE2NDg3OTgx/ODEtNDc4NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/3wWOCSH2qAqHLkmqPQJnCvIlS1HG2j0STdCvuMeIXIE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE5/NDA0LTE2NDg3OTgx/ODEtNDc4NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/c1XxK_M--rJpBIhSjgVp0mKDypsllDJZDadeZRSyDVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE5/NDA0LTE2NDg3OTgx/ODEtNDc4NC5qcGVn.jpeg",
+        "width": 593,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sQaDzdvj2jA088fAluN2sAGns-jh-MLyezhDys23COM/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE5/NDA0LTE2NDg3OTgy/MDYtNDAxNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/sQaDzdvj2jA088fAluN2sAGns-jh-MLyezhDys23COM/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE5/NDA0LTE2NDg3OTgy/MDYtNDAxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IXN0I5bCrYThsjNiVx4_qimQuVpv_n59nfkUuQotc0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE5/NDA0LTE2NDg3OTgy/MDYtNDAxNi5qcGVn.jpeg",
+        "width": 586,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/c1XxK_M--rJpBIhSjgVp0mKDypsllDJZDadeZRSyDVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE5/NDA0LTE2NDg3OTgx/ODEtNDc4NC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 21872014,
+    "status": "Accepted",
+    "year": 1938,
+    "resource_url": "https://api.discogs.com/releases/21872014",
+    "uri": "https://www.discogs.com/release/21872014-Late-S-G-Kittappa-\u0b86\u0ba3\u0b9f\u0bb5\u0ba9-\u0ba4\u0bb0\u0b9a\u0ba9\u0bae-\u0b95\u0baa\u0b95\u0bb3-\u0b95\u0b9e\u0b9a\u0bae-\u0bb0\u0bae\u0ba3",
+    "artists": [
+      {
+        "name": "S. G. Kittappa",
+        "anv": "Late S. G. Kittappa",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9714232,
+        "resource_url": "https://api.discogs.com/artists/9714232",
+        "thumbnail_url": "https://i.discogs.com/v9eop4fXpi8PSgSNltPahtvPL3L6VW4YYMS7BdKYybk/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3MTQy/MzItMTYyNzExNjA2/Ny0xNTA2LnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "S. G. Kittappa",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "GE. 902",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Columbia Graphophone Company Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 97841,
+        "resource_url": "https://api.discogs.com/labels/97841",
+        "thumbnail_url": "https://i.discogs.com/0gyXSnae7ooRTlPeGzkhOOdO_-fvy2w285vkOmbWbds/rs:fit/g:sm/q:90/h:159/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3ODQx/LTE1MTY2NTUwNjEt/NjQyOS5qcGVn.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 1,
+      "want": 1,
+      "rating": {
+        "count": 2,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-01-24T07:57:32-08:00",
+    "date_changed": "2022-01-24T08:00:57-08:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0b86\u0ba3\u0bcd\u0b9f\u0bb5\u0ba9\u0bcd \u0ba4\u0bb0\u0bbf\u0b9a\u0ba9\u0bae\u0bc7 / \u0b95\u0bcb\u0baa\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0b9e\u0bcd\u0b9a\u0bc1\u0bae\u0bcd \u0bb0\u0bae\u0ba3\u0bbe",
+    "country": "India",
+    "released": "1938",
+    "notes": "Tamil songs sung by Mr. S. G. Kittappa (Shencottah)\nWith Harmonium and Mirdhangam\nText in Tamil and Roman on the label\n",
+    "released_formatted": "1938",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "WEI. 891",
+        "description": "Side A Label "
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "WEI. 2523",
+        "description": "Side B Label "
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Andavan Darisanamae",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Gopikal Konjum Ramana",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "S. G. Kittappa",
+        "anv": "Late S. G. Kittappa",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 9714232,
+        "resource_url": "https://api.discogs.com/artists/9714232"
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xWZiur2MryZ5nxNrau6MzoBMSD6Ta_QFXPUKGgGgSF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDE0LTE2NDMwNDAw/MjUtNDYyMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/xWZiur2MryZ5nxNrau6MzoBMSD6Ta_QFXPUKGgGgSF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDE0LTE2NDMwNDAw/MjUtNDYyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qg4XCeGWdkoHJtb6eEWNJq70rFrlgd8CkQEL-6-NA10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDE0LTE2NDMwNDAw/MjUtNDYyMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/24H5mjBZbkB7b59rE5L6ybj-bviXsNz3CMdb7g4QhEI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDE0LTE2NDMwNDAw/MjUtNjU3NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/24H5mjBZbkB7b59rE5L6ybj-bviXsNz3CMdb7g4QhEI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDE0LTE2NDMwNDAw/MjUtNjU3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4betSqLbqxgDuf0wJm5UVtk2SRn63bx_cUdOKs2-kn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDE0LTE2NDMwNDAw/MjUtNjU3NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/qg4XCeGWdkoHJtb6eEWNJq70rFrlgd8CkQEL-6-NA10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDE0LTE2NDMwNDAw/MjUtNDYyMi5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 20809423,
+    "status": "Accepted",
+    "year": 1938,
+    "resource_url": "https://api.discogs.com/releases/20809423",
+    "uri": "https://www.discogs.com/release/20809423-G-N-Balasubramanyam-B-A-Hons-\u0c26\u0c30\u0c28-\u0c24\u0c32\u0c38\u0c15\u0c1f",
+    "artists": [
+      {
+        "name": "G. N. Balasubramaniam",
+        "anv": "G. N. Balasubramanyam, B. A., (Hons)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2943342,
+        "resource_url": "https://api.discogs.com/artists/2943342",
+        "thumbnail_url": "https://i.discogs.com/rJT8vxzboGpy6XQemAWrJBOZ3C0gY3jCWiTzk_vLy2U/rs:fit/g:sm/q:90/h:275/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5NDMz/NDItMTYwNjIzNjA1/MS00MTQ4LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "G. N. Balasubramaniam",
+    "labels": [
+      {
+        "name": "Hutchins & Co. - Madras",
+        "catno": "SN 27",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 2149582,
+        "resource_url": "https://api.discogs.com/labels/2149582",
+        "thumbnail_url": "https://i.discogs.com/JSfBrgoZGm8FCVtvrhwKjcO7kAoi1KYlmL5KS1PDS1Q/rs:fit/g:sm/q:90/h:333/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNDk1/ODItMTYxNzQyMjIx/NC04MzYzLmpwZWc.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1131963,
+        "resource_url": "https://api.discogs.com/labels/1131963"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 4,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-11-01T05:33:41-07:00",
+    "date_changed": "2022-03-11T08:01:48-08:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c26\u0c3e\u0c30\u0c3f\u0c28\u0c3f \u0c24\u0c46\u0c32\u0c41\u0c38\u0c41\u0c15\u0c4a\u0c02\u0c1f\u0c3f",
+    "country": "India",
+    "released": "1938",
+    "notes": "Telugu song - male solo\nText on labels in Roman & Telugu",
+    "released_formatted": "1938",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "HCM - 131",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "HCM - 132",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Indian Classical",
+      "Carnatic"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Tharini Thelusukanti - Part 1 (Suddha Saveri)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Tharini Thelusukanti - Part 2 (Suddha Saveri)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rmS4fyMouLJ6Ce2pQUhkM__rV0nl5Ck1wy_AY_Gkl_M/rs:fit/g:sm/q:90/h:600/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDIzLTE2MzU3NzAx/OTgtNjc2MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/rmS4fyMouLJ6Ce2pQUhkM__rV0nl5Ck1wy_AY_Gkl_M/rs:fit/g:sm/q:90/h:600/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDIzLTE2MzU3NzAx/OTgtNjc2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hqoObv5tKYTrlQjeZjnqvfxIiCiU3uhfhbBz2jW_YC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDIzLTE2MzU3NzAx/OTgtNjc2MS5qcGVn.jpeg",
+        "width": 549,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YegIo2cGxxVu-ryYG1RGtT8_-v_rbrSxghPMxQdg8p4/rs:fit/g:sm/q:90/h:600/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDIzLTE2MzU3NzAx/OTctODYwMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/YegIo2cGxxVu-ryYG1RGtT8_-v_rbrSxghPMxQdg8p4/rs:fit/g:sm/q:90/h:600/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDIzLTE2MzU3NzAx/OTctODYwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/EBtjJGEWa86xSxuky89Sehsb85cwq-yMGjd_OXjVwYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDIzLTE2MzU3NzAx/OTctODYwMS5qcGVn.jpeg",
+        "width": 534,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/hqoObv5tKYTrlQjeZjnqvfxIiCiU3uhfhbBz2jW_YC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/NDIzLTE2MzU3NzAx/OTgtNjc2MS5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 21124273,
+    "status": "Accepted",
+    "year": 1940,
+    "resource_url": "https://api.discogs.com/releases/21124273",
+    "uri": "https://www.discogs.com/release/21124273-Sangeetharathnam-Miss-T-N-Manikkam-Thirugokarnam-\u0b95\u0bb2\u0b95\u0b95\u0bae\u0bb1\u0baa\u0ba4-\u0ba8\u0b9f\u0ba9\u0bae-",
+    "artists": [
+      {
+        "name": "T. N. Manikkam",
+        "anv": "Sangeetharathnam Miss T. N. Manikkam (Thirugokarnam)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9900283,
+        "resource_url": "https://api.discogs.com/artists/9900283",
+        "thumbnail_url": "https://i.discogs.com/vilBMAgjcI0lbYdQZpbVJwIk7HWUpUhGTM0ElgVdm2Y/rs:fit/g:sm/q:90/h:365/w:260/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk5MDAy/ODMtMTYzMDIxODg1/Ni00NzMzLnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "T. N. Manikkam",
+    "labels": [
+      {
+        "name": "His Master's Voice",
+        "catno": "H.T. 3",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 37150,
+        "resource_url": "https://api.discogs.com/labels/37150",
+        "thumbnail_url": "https://i.discogs.com/rUOd_H-TXQrryPCGDusqv9KpLXvUihFrOOjRUcP4Aqw/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3MTUw/LTE0NTM1ODUwMzMt/NjgyNi5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1131963,
+        "resource_url": "https://api.discogs.com/labels/1131963"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "12\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 1,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-11-25T19:47:21-08:00",
+    "date_changed": "2021-11-25T19:50:12-08:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0b95\u0bb2\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba9\u0bae\u0bcd ",
+    "country": "India",
+    "released": "1940",
+    "notes": "Tamil Carnatic Song - Female Solo\nText on label in Roman and Tamil\nSource : Sunny's Discs & Machines Gramophone Museum",
+    "released_formatted": "1940",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "QC - 4111",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "QC - 4112",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Indian Classical",
+      "Carnatic"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Kalakkamarapothunadanam, Part 1 (Ragamalika)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Kalakkamarapothunadanam, Part 2 (Ragamalika)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Mtc_8DIJHP_5cFhjGSbxeJsod3L5TfAzYD6q31dplJM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/MjczLTE2Mzc4OTg1/OTUtMTUzNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Mtc_8DIJHP_5cFhjGSbxeJsod3L5TfAzYD6q31dplJM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/MjczLTE2Mzc4OTg1/OTUtMTUzNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OCr0WjjmzWIuEUCYW4jDBruEDWNr-rAuMMUTMaTRvm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/MjczLTE2Mzc4OTg1/OTUtMTUzNS5qcGVn.jpeg",
+        "width": 593,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ch2mNrY9S6zp1KVNF3r7iHAF1x2OWc3KrpAJx3vYVxk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/MjczLTE2Mzc4OTg1/OTUtNjU3MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ch2mNrY9S6zp1KVNF3r7iHAF1x2OWc3KrpAJx3vYVxk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/MjczLTE2Mzc4OTg1/OTUtNjU3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/u80rb3lY_BGhV620lK5ekvBfYyNAPVqkW15En1kZO4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/MjczLTE2Mzc4OTg1/OTUtNjU3MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      }
+    ],
+    "thumb": "https://i.discogs.com/OCr0WjjmzWIuEUCYW4jDBruEDWNr-rAuMMUTMaTRvm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/MjczLTE2Mzc4OTg1/OTUtMTUzNS5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 23111186,
+    "status": "Accepted",
+    "year": 1940,
+    "resource_url": "https://api.discogs.com/releases/23111186",
+    "uri": "https://www.discogs.com/release/23111186-Sangeetha-Vidwan-T-Ramanuja-Iyengar-Ariyakudi-\u0c05\u0c28\u0c2a\u0c2e\u0c17\u0c23\u0c2c\u0c26-\u0c05\u0c32\u0c15\u0c32\u0c32\u0c32",
+    "artists": [
+      {
+        "name": "T. Ramanuja Iyengar",
+        "anv": "Sangeetha Vidwan T. Ramanuja Iyengar (Ariyakudi)",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 7781326,
+        "resource_url": "https://api.discogs.com/artists/7781326",
+        "thumbnail_url": "https://i.discogs.com/OgMFp_x9oPXreTd0behKIcr1MMOKHLdQL_oG_r-kdtA/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc3ODEz/MjYtMTY0NTA3ODgx/OC00MTc5LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "T. Ramanuja Iyengar",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "A. 114",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Columbia Graphophone Company Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 97841,
+        "resource_url": "https://api.discogs.com/labels/97841",
+        "thumbnail_url": "https://i.discogs.com/0gyXSnae7ooRTlPeGzkhOOdO_-fvy2w285vkOmbWbds/rs:fit/g:sm/q:90/h:159/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3ODQx/LTE1MTY2NTUwNjEt/NjQyOS5qcGVn.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 1,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-05-04T09:15:15-07:00",
+    "date_changed": "2024-03-12T05:36:28-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c05\u0c28\u0c41\u0c2a\u0c2e\u0c17\u0c41\u0c23\u0c02\u0c2c\u0c41\u0c26\u0c3f / \u0c05\u0c32\u0c15\u0c32\u0c32\u0c4d\u0c32",
+    "country": "India",
+    "released": "1940",
+    "notes": "Telugu song - Male solo\nText on labels in Roman & Telugu\nDisc Source - Sunny's Museum of Discs & Machines, Kerala, India",
+    "released_formatted": "1940",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "MD. 1625",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MD. 1653",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Indian Classical",
+      "Carnatic"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Anupamakunambudi (Attana)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Alakalalla (Madyamavathi)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0G-ALEHhI9LmcD_MRX0qNCyoltlnwPqjNFaRpOPPwwA/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTEx/MTg2LTE2NTE2ODA5/NTctNTA0MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/0G-ALEHhI9LmcD_MRX0qNCyoltlnwPqjNFaRpOPPwwA/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTEx/MTg2LTE2NTE2ODA5/NTctNTA0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/eIidqdU_mhz0GLGtn6dysdRclzKvx29TMvp59KPp6Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTEx/MTg2LTE2NTE2ODA5/NTctNTA0MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 581
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/t8oEUNCeU3Zabug__CsxQh58Re-RvG7xk2f24h-dU6M/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTEx/MTg2LTE2NTE2ODA5/NjAtNjkyNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/t8oEUNCeU3Zabug__CsxQh58Re-RvG7xk2f24h-dU6M/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTEx/MTg2LTE2NTE2ODA5/NjAtNjkyNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8fRmIDpUtA7GC4YR_83YC-dJR74uB5eqdqUrc6ywN7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTEx/MTg2LTE2NTE2ODA5/NjAtNjkyNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 593
+      }
+    ],
+    "thumb": "https://i.discogs.com/eIidqdU_mhz0GLGtn6dysdRclzKvx29TMvp59KPp6Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTEx/MTg2LTE2NTE2ODA5/NTctNTA0MC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 28580737,
+    "status": "Accepted",
+    "year": 1940,
+    "resource_url": "https://api.discogs.com/releases/28580737",
+    "uri": "https://www.discogs.com/release/28580737-T-N-Rajaratnam-Pillai-Thiruvaduthurai-\u0c28\u0c1f-\u0c2c\u0c30\u0c35-\u0c30\u0c17-\u0c06\u0c32\u0c2a\u0c28",
+    "artists": [
+      {
+        "name": "T.N. Rajarathnam Pillai",
+        "anv": "T. N. Rajaratnam Pillai, Thiruvaduthurai",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 6285020,
+        "resource_url": "https://api.discogs.com/artists/6285020",
+        "thumbnail_url": "https://i.discogs.com/_DLxyWqWLNaapsl2S0lNwPzb_XSNryeN_fQviDXi3lI/rs:fit/g:sm/q:90/h:407/w:194/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyODUw/MjAtMTYyODUxNTAy/Ni0yNzU2LnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "T.N. Rajarathnam Pillai",
+    "labels": [
+      {
+        "name": "Odeon",
+        "catno": "CA. 1148",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 33930,
+        "resource_url": "https://api.discogs.com/labels/33930",
+        "thumbnail_url": "https://i.discogs.com/bP2rUVIsiRH22EN1r6xijFQsJJrwv92I4TE9h7k_y1M/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4Mjc1/LTExNTQ1MzYyODAu/anBlZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 1,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2023-10-13T08:12:04-07:00",
+    "date_changed": "2023-10-13T08:13:28-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c28\u0c1f \u0c2c\u0c48\u0c30\u0c35\u0c3f - \u0c30\u0c3e\u0c17 \u0c06\u0c32\u0c3e\u0c2a\u0c28\u0c3e",
+    "country": "India",
+    "released": "1940",
+    "notes": "Nadaswaram Solo - Carnatic Classical\nText on label is in Tamil and Roman",
+    "released_formatted": "1940",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "MD. 3105",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "MD. 3106",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Nata Bhairavi Raga Alapana - Part 1",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Nata Bhairavi Raga Alapana - Part 2",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "T.N. Rajarathnam Pillai",
+        "anv": "T. N. Rajaratnam Pillai, Thiruvaduthurai",
+        "join": "",
+        "role": "Nadaswaram",
+        "tracks": "",
+        "id": 6285020,
+        "resource_url": "https://api.discogs.com/artists/6285020"
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WHA9VUKOeLpfwJ5FwYgxeLic_lpvKYjRhBNb7hYTwFU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/NzM3LTE2OTcyMTAw/MDEtMzgxNS5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/WHA9VUKOeLpfwJ5FwYgxeLic_lpvKYjRhBNb7hYTwFU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/NzM3LTE2OTcyMTAw/MDEtMzgxNS5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/_oCvSnf7I9WKvrA-ymR9PpWS5UiugaCdBzuKdO0VD_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/NzM3LTE2OTcyMTAw/MDEtMzgxNS5wbmc.jpeg",
+        "width": 600,
+        "height": 589
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HMTy_S_xKKbrAAokR0mvDzcXO_QsUS_iwuDtqetor1g/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/NzM3LTE2OTcyMDk5/OTctMjgwMS5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/HMTy_S_xKKbrAAokR0mvDzcXO_QsUS_iwuDtqetor1g/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/NzM3LTE2OTcyMDk5/OTctMjgwMS5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/md34w_mg2FeMFHSrmzzLPBCDcPOUvy2G6CyVKkHXoG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/NzM3LTE2OTcyMDk5/OTctMjgwMS5wbmc.jpeg",
+        "width": 600,
+        "height": 583
+      }
+    ],
+    "thumb": "https://i.discogs.com/_oCvSnf7I9WKvrA-ymR9PpWS5UiugaCdBzuKdO0VD_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/NzM3LTE2OTcyMTAw/MDEtMzgxNS5wbmc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 22554230,
+    "status": "Accepted",
+    "year": 1942,
+    "resource_url": "https://api.discogs.com/releases/22554230",
+    "uri": "https://www.discogs.com/release/22554230-V-V-Satagopan-B-A-\u0bb0\u0bae-\u0baa\u0b9c\u0ba9",
+    "artists": [
+      {
+        "name": "V. V. Sadagopan",
+        "anv": "V. V. Satagopan, B. A.",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 10958288,
+        "resource_url": "https://api.discogs.com/artists/10958288",
+        "thumbnail_url": "https://i.discogs.com/OTdngC6mwxE85yubP6tQwDkJQLflJWh3_VXeiP5g1m8/rs:fit/g:sm/q:90/h:321/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwOTU4/Mjg4LTE2NTg1OTQ2/NDUtMTc0OC5wbmc.jpeg"
+      }
+    ],
+    "artists_sort": "V. V. Sadagopan",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "GE. 6125",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Columbia Graphophone Company Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 97841,
+        "resource_url": "https://api.discogs.com/labels/97841",
+        "thumbnail_url": "https://i.discogs.com/0gyXSnae7ooRTlPeGzkhOOdO_-fvy2w285vkOmbWbds/rs:fit/g:sm/q:90/h:159/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3ODQx/LTE1MTY2NTUwNjEt/NjQyOS5qcGVn.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-03-18T06:13:42-07:00",
+    "date_changed": "2022-03-18T06:16:25-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0bb0\u0bbe\u0bae\u200b \u0baa\u0b9c\u0ba9\u0bc8",
+    "country": "India",
+    "released": "1942",
+    "notes": "Tamil Carnatic song by V. V. Sadagopan\nText on label is in Roman and Tamil\nSource: Ramulu",
+    "released_formatted": "1942",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI. 18779",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI. 18780",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Rama Bhajanai Part 1 (Ragamalika)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Rama Bhajanai Part 2 (Ragamalika)",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "V. V. Sadagopan",
+        "anv": "V. V. Satagopan, B. A.",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 10958288,
+        "resource_url": "https://api.discogs.com/artists/10958288"
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vIophC826e0y85HlMrClZ7ciWDlGChFUc5HIv942eL0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU0/MjMwLTE2NDc2MDkz/NzEtNzg4MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/vIophC826e0y85HlMrClZ7ciWDlGChFUc5HIv942eL0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU0/MjMwLTE2NDc2MDkz/NzEtNzg4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/grnG4QHmTxikqyp2lBnaAccbFK_kq2ee2ljt7uaO-Jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU0/MjMwLTE2NDc2MDkz/NzEtNzg4MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6HTo_r7TL3XPatsdvUOjwXriGYwPXBRjz1_rmJdRjCk/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU0/MjMwLTE2NDc2MDkz/NzItNzQ2Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/6HTo_r7TL3XPatsdvUOjwXriGYwPXBRjz1_rmJdRjCk/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU0/MjMwLTE2NDc2MDkz/NzItNzQ2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZN1HhV_SNiVUIt1pO-9ACOfWmEujDPM5Qf_ysIFefrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU0/MjMwLTE2NDc2MDkz/NzItNzQ2Mi5qcGVn.jpeg",
+        "width": 585,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/grnG4QHmTxikqyp2lBnaAccbFK_kq2ee2ljt7uaO-Jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU0/MjMwLTE2NDc2MDkz/NzEtNzg4MC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 20542999,
+    "status": "Accepted",
+    "year": 1942,
+    "resource_url": "https://api.discogs.com/releases/20542999",
+    "uri": "https://www.discogs.com/release/20542999-KB-Sundarambal-\u0bae\u0bb0\u0b95\u0ba9\u0ba9\u0bb1\u0ba4\u0bae-\u0b89\u0ba9-\u0bae\u0bb1\u0ba8\u0ba4\u0b9f\u0baa\u0baa\u0bae",
+    "artists": [
+      {
+        "name": "K.B. Sundarambal",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2004781,
+        "resource_url": "https://api.discogs.com/artists/2004781",
+        "thumbnail_url": "https://i.discogs.com/xpdlpvZRgREo4H3PbX7W-TUf3VdMQ9OmsJQoRdfVKJM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMDQ3/ODEtMTY1ODkyMjY3/MC0xMTk3LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "K.B. Sundarambal",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "GE. 6145",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Columbia Graphophone Company Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 97841,
+        "resource_url": "https://api.discogs.com/labels/97841",
+        "thumbnail_url": "https://i.discogs.com/0gyXSnae7ooRTlPeGzkhOOdO_-fvy2w285vkOmbWbds/rs:fit/g:sm/q:90/h:159/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3ODQx/LTE1MTY2NTUwNjEt/NjQyOS5qcGVn.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-10-10T10:10:35-07:00",
+    "date_changed": "2021-10-10T10:15:49-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1\u0bae\u0bc7 / \u0b89\u0ba9\u0bc8 \u0bae\u0bb1\u0ba8\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bbe",
+    "country": "India",
+    "released": "1942",
+    "notes": "Tamil Classical songs by K. B. Sundaramabal\nText on label is in Roman and Tamil\nSource : A. N. Sapthagireesan",
+    "released_formatted": "1942",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI. 19234",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI. 19238",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI 19234-2",
+        "description": "Side A Label Runout"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI 19238-2",
+        "description": "Side B Label Runout"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Muruganenrathumae",
+        "extraartists": [
+          {
+            "name": "Suddhanandha Bharathi",
+            "anv": "\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd",
+            "join": "",
+            "role": "Composed By",
+            "tracks": "",
+            "id": 7244106,
+            "resource_url": "https://api.discogs.com/artists/7244106"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Unai Maranthidappoma",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JMrg5O4lU1POfiwn5elnmlb1vEEh9amd4WQPxR8F9Xk/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQy/OTk5LTE2MzM4ODYx/MjQtMjM0OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/JMrg5O4lU1POfiwn5elnmlb1vEEh9amd4WQPxR8F9Xk/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQy/OTk5LTE2MzM4ODYx/MjQtMjM0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SRtuI_Sc-CfQRFHLFTQmIXsc8AqQTNS2oU29gpJ9s3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQy/OTk5LTE2MzM4ODYx/MjQtMjM0OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 577
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Qv21FxsvTrdv8kd_MF4ZF3ozrk7RqCLsGzRHxpzeFKg/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQy/OTk5LTE2MzM4ODYx/MjMtNDYyOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Qv21FxsvTrdv8kd_MF4ZF3ozrk7RqCLsGzRHxpzeFKg/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQy/OTk5LTE2MzM4ODYx/MjMtNDYyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Pdd2kJmiBqCEI0iw7c_MWWewiiV8t4N6cKuI5n9_uO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQy/OTk5LTE2MzM4ODYx/MjMtNDYyOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 525
+      }
+    ],
+    "thumb": "https://i.discogs.com/SRtuI_Sc-CfQRFHLFTQmIXsc8AqQTNS2oU29gpJ9s3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQy/OTk5LTE2MzM4ODYx/MjQtMjM0OS5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 21796516,
+    "status": "Accepted",
+    "year": 1942,
+    "resource_url": "https://api.discogs.com/releases/21796516",
+    "uri": "https://www.discogs.com/release/21796516-Semmangudi-Srinivasa-Iyer-\u0c2e\u0c28\u0c38-\u0c38\u0c1a\u0c30\u0c30-\u0c36\u0c30\u0c15\u0c24-\u0c28\u0c2f\u0c21",
+    "artists": [
+      {
+        "name": "Semmangudi Sr\u012bniv\u0101sa Aiyar",
+        "anv": "Semmangudi Srinivasa Iyer",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1002540,
+        "resource_url": "https://api.discogs.com/artists/1002540",
+        "thumbnail_url": "https://i.discogs.com/h6Bm0g1QlTIEsojH9mA2V1T2wzBo32UheJkWgJ2_yOY/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMDI1/NDAtMTY5NjU3NjI1/MC05NzkzLmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "Semmangudi Sr\u012bniv\u0101sa Aiyar",
+    "labels": [
+      {
+        "name": "The Twin",
+        "catno": "FT. 6781",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 376319,
+        "resource_url": "https://api.discogs.com/labels/376319",
+        "thumbnail_url": "https://i.discogs.com/tcMZJ-7ThrAv5idLVzUaVmPXgFlx_P38nKKbwdWvufU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3NjMx/OS0xNTE5ODk2NDk0/LTg1MjUuanBlZw.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 1,
+      "want": 4,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-01-18T19:17:36-08:00",
+    "date_changed": "2022-01-18T19:21:19-08:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c2e\u0c3e\u0c28\u0c38 \u0c38\u0c02\u0c1a\u0c30\u0c30\u0c47 / \u0c36\u0c4d\u0c30\u0c3f\u0c15\u0c3e\u0c02\u0c24 \u0c28\u0c40\u0c2f\u0c46\u0c21\u200b",
+    "country": "India",
+    "released": "1942",
+    "notes": "Two Telugu carnatic songs by Semmangudi Srinivasa Iyer\nText on label is in Tamil, Telugu and Roman",
+    "released_formatted": "1942",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OE. 2024-2",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OE. 2037",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Manasa Sancharare - Syama",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Srikanta Nee Yeda - Bhavapriya",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Kja-xbzjgJiKmgX81h9x0nKPoUEYWtBEp0rHliZwobA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/NTE2LTE2NDI1NjI0/NzMtOTcxMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Kja-xbzjgJiKmgX81h9x0nKPoUEYWtBEp0rHliZwobA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/NTE2LTE2NDI1NjI0/NzMtOTcxMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/01mrBhHISS46kqhLoL0RWI2faer0mI0CT46rYy5MEDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/NTE2LTE2NDI1NjI0/NzMtOTcxMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/X2kjwnQ7RDyQ5v0QzUcCKOS-qUFMahm-lAUgp_mdCK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/NTE2LTE2NDI1NjI0/NzMtOTQ3Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/X2kjwnQ7RDyQ5v0QzUcCKOS-qUFMahm-lAUgp_mdCK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/NTE2LTE2NDI1NjI0/NzMtOTQ3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/InKIITxAfP1n3-wG1GCOk-LBxxbESXI1U8M9jNdxZkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/NTE2LTE2NDI1NjI0/NzMtOTQ3Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/01mrBhHISS46kqhLoL0RWI2faer0mI0CT46rYy5MEDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/NTE2LTE2NDI1NjI0/NzMtOTcxMy5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 20836018,
+    "status": "Accepted",
+    "year": 1945,
+    "resource_url": "https://api.discogs.com/releases/20836018",
+    "uri": "https://www.discogs.com/release/20836018-Sangeetha-Vidwan-Thurayur-M-Rajagopala-Sarma-\u0bae\u0bb1\u0bb5\u0bb5\u0bb0\u0bae",
+    "artists": [
+      {
+        "name": "Turaiyur M. Rajagopala Sarma",
+        "anv": "Sangeetha Vidwan Thurayur M. Rajagopala Sarma",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1588684,
+        "resource_url": "https://api.discogs.com/artists/1588684",
+        "thumbnail_url": "https://i.discogs.com/DZVxLe8zlxUJnN0D1JEFkuY9KDv_ZzaBlNRTkXGsHg4/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1ODg2/ODQtMTYyNzI3OTU1/MC0xNTc3LnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "Turaiyur M. Rajagopala Sarma",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "GE. 6262",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Columbia Graphophone Company Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 97841,
+        "resource_url": "https://api.discogs.com/labels/97841",
+        "thumbnail_url": "https://i.discogs.com/0gyXSnae7ooRTlPeGzkhOOdO_-fvy2w285vkOmbWbds/rs:fit/g:sm/q:90/h:159/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3ODQx/LTE1MTY2NTUwNjEt/NjQyOS5qcGVn.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 1,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-11-03T05:45:14-07:00",
+    "date_changed": "2021-11-03T05:47:38-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0bae\u0bb1\u0bb5\u0bbe\u0bb5\u0bb0\u0bae\u0bcd",
+    "country": "India",
+    "released": "1945",
+    "notes": "Tamil Carnatic song by Thuraiyur M. Rajagopala Sarma\nText on label is in Roman and Tamil\nSource : A. N. Sapthagireesan",
+    "released_formatted": "1945",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI. 19458",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI. 19459",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Maravavaram Part 1 (Mohanam)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Maravavaram Part 2 (Mohanam)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YqzlRSa1KMA7XeMz0BVAiAi8_6TibH9tmAj-tl6VNuE/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/MDE4LTE2MzU5NDM2/NDMtNDMyOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/YqzlRSa1KMA7XeMz0BVAiAi8_6TibH9tmAj-tl6VNuE/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/MDE4LTE2MzU5NDM2/NDMtNDMyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yxm_CypwqjkCEvyjXw4f1DMc9ozMxER-9imZrViznRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/MDE4LTE2MzU5NDM2/NDMtNDMyOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 562
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lPDYIznyEbAI7JUx3gSOJuSTyZhkbLyDyzJyIPX0jdk/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/MDE4LTE2MzU5NDM2/NDMtMTE3Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lPDYIznyEbAI7JUx3gSOJuSTyZhkbLyDyzJyIPX0jdk/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/MDE4LTE2MzU5NDM2/NDMtMTE3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/sGK8xxBwl4IGv4h6U_cWao5BkmfW3IPuJNDjLINhmZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/MDE4LTE2MzU5NDM2/NDMtMTE3Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 560
+      }
+    ],
+    "thumb": "https://i.discogs.com/yxm_CypwqjkCEvyjXw4f1DMc9ozMxER-9imZrViznRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/MDE4LTE2MzU5NDM2/NDMtNDMyOC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 21803230,
+    "status": "Accepted",
+    "year": 1945,
+    "resource_url": "https://api.discogs.com/releases/21803230",
+    "uri": "https://www.discogs.com/release/21803230-Mr-S-G-Kittappa-Shencottah-\u0c0e\u0c35\u0c30\u0c28",
+    "artists": [
+      {
+        "name": "S. G. Kittappa",
+        "anv": "Mr. S. G. Kittappa, Shencottah",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9714232,
+        "resource_url": "https://api.discogs.com/artists/9714232",
+        "thumbnail_url": "https://i.discogs.com/v9eop4fXpi8PSgSNltPahtvPL3L6VW4YYMS7BdKYybk/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3MTQy/MzItMTYyNzExNjA2/Ny0xNTA2LnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "S. G. Kittappa",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "GE. 978",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co. Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 253617,
+        "resource_url": "https://api.discogs.com/labels/253617",
+        "thumbnail_url": "https://i.discogs.com/kaHN3N80A8IXVPH27nFTTeDqB7M7IA7sKwwV5NYBVyQ/rs:fit/g:sm/q:90/h:90/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MzYx/Ny0xMzM4MDU1ODI0/LTU5NDUuanBlZw.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 1,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-01-19T07:46:15-08:00",
+    "date_changed": "2022-01-19T19:54:49-08:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c0e\u0c35\u0c30\u0c28\u0c3f",
+    "country": "India",
+    "released": "1945",
+    "notes": "Telugu song sung by Mr. S. G. Kittappa (Shencottah)\nWith Harmonium and Mirdhangam\nText in Telugu and Roman on the label\n",
+    "released_formatted": "1945",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "WEI. 931",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "WEI. 932",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Evarani (Nadachinthamani) Part I",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Evarani (Nadachinthamani) Part II",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "S. G. Kittappa",
+        "anv": "Mr. S. G. Kittappa, Shencottah",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 9714232,
+        "resource_url": "https://api.discogs.com/artists/9714232"
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/B38KS51AkLKO9EFamJ4Cd3_CUAYkMQEp11BNuPCe9bE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAz/MjMwLTE2NDI2NTA4/NzktMTc5Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/B38KS51AkLKO9EFamJ4Cd3_CUAYkMQEp11BNuPCe9bE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAz/MjMwLTE2NDI2NTA4/NzktMTc5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/EA7ywR4K7tmvy-nlULw7u8VripCTDLpt55G9rI9Mu08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAz/MjMwLTE2NDI2NTA4/NzktMTc5Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fpycp7HeRHu4M_KOBTavurmPGAb7SgDcCuLN3TEJ5rU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAz/MjMwLTE2NDI2NTA4/NzktODk3OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fpycp7HeRHu4M_KOBTavurmPGAb7SgDcCuLN3TEJ5rU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAz/MjMwLTE2NDI2NTA4/NzktODk3OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IUDSUulvuAGwZtQ_WEMesoBDNYf4Ya0Hse6XGBd1SnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAz/MjMwLTE2NDI2NTA4/NzktODk3OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/EA7ywR4K7tmvy-nlULw7u8VripCTDLpt55G9rI9Mu08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAz/MjMwLTE2NDI2NTA4/NzktMTc5Ni5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 21124723,
+    "status": "Accepted",
+    "year": 1945,
+    "resource_url": "https://api.discogs.com/releases/21124723",
+    "uri": "https://www.discogs.com/release/21124723-Turaiyur-M-Rajagopala-Sarma-\u0c30\u0c2e\u0c2c\u0c30\u0c2e",
+    "artists": [
+      {
+        "name": "Turaiyur M. Rajagopala Sarma",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1588684,
+        "resource_url": "https://api.discogs.com/artists/1588684",
+        "thumbnail_url": "https://i.discogs.com/DZVxLe8zlxUJnN0D1JEFkuY9KDv_ZzaBlNRTkXGsHg4/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1ODg2/ODQtMTYyNzI3OTU1/MC0xNTc3LnBuZw.jpeg"
+      }
+    ],
+    "artists_sort": "Turaiyur M. Rajagopala Sarma",
+    "labels": [
+      {
+        "name": "Columbia",
+        "catno": "GE. 6316",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1866,
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Columbia Graphophone Company Ltd.",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 97841,
+        "resource_url": "https://api.discogs.com/labels/97841",
+        "thumbnail_url": "https://i.discogs.com/0gyXSnae7ooRTlPeGzkhOOdO_-fvy2w285vkOmbWbds/rs:fit/g:sm/q:90/h:159/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3ODQx/LTE1MTY2NTUwNjEt/NjQyOS5qcGVn.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2021-11-25T21:40:30-08:00",
+    "date_changed": "2021-11-25T21:42:51-08:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c30\u0c3e\u0c2e\u0c3e\u0c2c\u0c3f\u0c30\u0c3e\u0c2e\u200b",
+    "country": "India",
+    "released": "1945",
+    "notes": "Telugu Carnatic song by Thuraiyur M. Rajagopala Sarma\nText on label is in Roman, Telugu and Tamil\nSource : Sunny Mathew",
+    "released_formatted": "1945",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI. 19655",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "CEI. 19656",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Ramabirama Part 1 - (Danyasi)",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Ramabirama Part 2 - (Danyasi)",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/URHkXnrzb5fqsY7lJ-bd7DcFxjIv3mUqwFqCjYdjQks/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/NzIzLTE2Mzc5MDUz/NDctNDIyNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/URHkXnrzb5fqsY7lJ-bd7DcFxjIv3mUqwFqCjYdjQks/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/NzIzLTE2Mzc5MDUz/NDctNDIyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/oqg7jrGUtp_Tec24viZ4gIpmfcV9ZrO9sfAaFL_YEdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/NzIzLTE2Mzc5MDUz/NDctNDIyNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JOKcG3WzLj7SaeuaOkX61V1QdHp3mRRmL2DOdVJaOeE/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/NzIzLTE2Mzc5MDUz/NDctODMyMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/JOKcG3WzLj7SaeuaOkX61V1QdHp3mRRmL2DOdVJaOeE/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/NzIzLTE2Mzc5MDUz/NDctODMyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mXszpIHH2y5hnb47cpv1VuRBEetPQ2BHLBwCP2TFV5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/NzIzLTE2Mzc5MDUz/NDctODMyMi5qcGVn.jpeg",
+        "width": 578,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/oqg7jrGUtp_Tec24viZ4gIpmfcV9ZrO9sfAaFL_YEdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI0/NzIzLTE2Mzc5MDUz/NDctNDIyNS5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 24301205,
+    "status": "Accepted",
+    "year": 1945,
+    "resource_url": "https://api.discogs.com/releases/24301205",
+    "uri": "https://www.discogs.com/release/24301205-Sm-N-C-Vasanthakokilam-\u0baa\u0bae\u0bb2-\u0ba4\u0ba4\u0ba4\u0b95\u0b95\u0bae-\u0b9a\u0ba8\u0ba4\u0bae\u0bb4\u0bb2",
+    "artists": [
+      {
+        "name": "N. C. Vasanthakokilam",
+        "anv": "Sm. N. C. Vasanthakokilam",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4610177,
+        "resource_url": "https://api.discogs.com/artists/4610177",
+        "thumbnail_url": "https://i.discogs.com/_GQXXyqYSVoblhad4f7Kpw6JjUjsDk0VoX2_HHIw8Jw/rs:fit/g:sm/q:90/h:600/w:430/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ2MTAx/NzctMTYwNjMxNTA3/OS0yNDc4LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "N. C. Vasanthakokilam",
+    "labels": [
+      {
+        "name": "His Master's Voice",
+        "catno": "N. 18259",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 37150,
+        "resource_url": "https://api.discogs.com/labels/37150",
+        "thumbnail_url": "https://i.discogs.com/rUOd_H-TXQrryPCGDusqv9KpLXvUihFrOOjRUcP4Aqw/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3MTUw/LTE0NTM1ODUwMzMt/NjgyNi5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1131963,
+        "resource_url": "https://api.discogs.com/labels/1131963"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 0,
+      "want": 0,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2022-08-24T08:54:25-07:00",
+    "date_changed": "2022-08-24T09:00:51-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0baa\u0bbe\u0bae\u0bbe\u0bb2\u0bc8 / \u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bbe\u0bb2\u0bcd",
+    "country": "India",
+    "released": "1945",
+    "notes": "Carnatic Classical - Female Solo\nBy Kind Permission Of Annamalai University\nText on labels in Tamil and Roman\nSource: Sunny Mathew",
+    "released_formatted": "1945",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OML. 4185",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OML. 4192",
+        "description": "Side B Label"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Pamalai",
+        "extraartists": [
+          {
+            "name": "Papanasam Sivan",
+            "anv": "\u0baa\u0bbe\u0baa\u0ba8\u0bbe\u0b9a\u0bae\u0bcd \u0b9a\u0bbf\u0bb5\u0ba9\u0bcd",
+            "join": "",
+            "role": "Composed By",
+            "tracks": "",
+            "id": 1720112,
+            "resource_url": "https://api.discogs.com/artists/1720112"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Thithikkum Chenthamizhal",
+        "extraartists": [
+          {
+            "name": "Suddhanandha Bharathi",
+            "anv": "\u0b9a\u0bc1\u0bb5\u0bbe\u0bae\u0bbf \u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4 \u0baa\u0bbe\u0bb0\u0ba4\u0bbf",
+            "join": "",
+            "role": "Composed By",
+            "tracks": "",
+            "id": 7244106,
+            "resource_url": "https://api.discogs.com/artists/7244106"
+          }
+        ],
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "N. C. Vasanthakokilam",
+        "anv": "Sm. N. C. Vasanthakokilam",
+        "join": "",
+        "role": "Vocals",
+        "tracks": "",
+        "id": 4610177,
+        "resource_url": "https://api.discogs.com/artists/4610177"
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hkz9Hc7WHCnCvQ-4uKum6Us_ykhC3POaGxStSJN5XTY/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/MjA1LTE2NjEzNTY3/NzgtNTY5MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/hkz9Hc7WHCnCvQ-4uKum6Us_ykhC3POaGxStSJN5XTY/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/MjA1LTE2NjEzNTY3/NzgtNTY5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0OPYIF4iBGjdBwdtxT4tiaLETN19ni0BoOfKf8LL2JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/MjA1LTE2NjEzNTY3/NzgtNTY5MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 578
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Pruc4f9paVZBwG2b0NlWxvZM-_sJGWLVJmCMYTuorOE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/MjA1LTE2NjEzNTY3/ODEtMTUwMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Pruc4f9paVZBwG2b0NlWxvZM-_sJGWLVJmCMYTuorOE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/MjA1LTE2NjEzNTY3/ODEtMTUwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Sc8alZeHjRIRf8OfAMXr-T-2PdaT7YOWnWCGS0KzOd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/MjA1LTE2NjEzNTY3/ODEtMTUwMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 594
+      }
+    ],
+    "thumb": "https://i.discogs.com/0OPYIF4iBGjdBwdtxT4tiaLETN19ni0BoOfKf8LL2JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/MjA1LTE2NjEzNTY3/NzgtNTY5MC5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  },
+  {
+    "id": 27639975,
+    "status": "Accepted",
+    "year": 1946,
+    "resource_url": "https://api.discogs.com/releases/27639975",
+    "uri": "https://www.discogs.com/release/27639975-Sm-M-S-Subbulakshmi-\u0c0e\u0c28\u0c28\u0c17\u0c28-\u0c30\u0c2e-\u0c2d\u0c1c\u0c28",
+    "artists": [
+      {
+        "name": "M.S. Subbulakshmi",
+        "anv": "Sm. M. S. Subbulakshmi",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 971725,
+        "resource_url": "https://api.discogs.com/artists/971725",
+        "thumbnail_url": "https://i.discogs.com/qFe2c_x5xkBlz2JP8e1Y3nmPLH4jgfSSwVuNYRKxtH8/rs:fit/g:sm/q:90/h:600/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3MTcy/NS0xNTMzMjI4MDQ4/LTM4NTMuanBlZw.jpeg"
+      }
+    ],
+    "artists_sort": "M.S. Subbulakshmi",
+    "labels": [
+      {
+        "name": "His Master's Voice",
+        "catno": "N. 18680",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 37150,
+        "resource_url": "https://api.discogs.com/labels/37150",
+        "thumbnail_url": "https://i.discogs.com/rUOd_H-TXQrryPCGDusqv9KpLXvUihFrOOjRUcP4Aqw/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3MTUw/LTE0NTM1ODUwMzMt/NjgyNi5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "The Gramophone Co., Ltd., Dum Dum",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 1131963,
+        "resource_url": "https://api.discogs.com/labels/1131963"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Shellac",
+        "qty": "1",
+        "descriptions": [
+          "10\"",
+          "78 RPM"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 2,
+      "want": 1,
+      "rating": {
+        "count": 1,
+        "average": 5.0
+      },
+      "submitter": {
+        "username": "Vintagevoices",
+        "resource_url": "https://api.discogs.com/users/Vintagevoices"
+      },
+      "contributors": [
+        {
+          "username": "Vintagevoices",
+          "resource_url": "https://api.discogs.com/users/Vintagevoices"
+        },
+        {
+          "username": "surchand",
+          "resource_url": "https://api.discogs.com/users/surchand"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2023-07-10T17:56:26-07:00",
+    "date_changed": "2023-07-13T07:16:48-07:00",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "title": "\u0c0e\u0c28\u0c4d\u0c28\u0c17\u0c3e\u0c28\u0c41 \u0c30\u0c3e\u0c2e \u0c2d\u0c1c\u0c28",
+    "country": "India",
+    "released": "1946",
+    "notes": "Telugu Carnatic Classical - Female Solo\nText on labels in Tamil, Telugu and Roman",
+    "released_formatted": "1946",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "OMH. 7754",
+        "description": "Side A Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OMH. 7755",
+        "description": "Side B Label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OMH 7754-I"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "OMH 7755-I"
+      }
+    ],
+    "videos": [],
+    "genres": [
+      "Folk, World, & Country",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Carnatic",
+      "Indian Classical"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Ennaganu Rama Bhajana - Pantuvarali - Part 1",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Ennaganu Rama Bhajana - Pantuvarali - Part 2",
+        "duration": ""
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/scsbyrUUWfTCm84W3q8YX5p-0lIJj-bwZQ8zUsSFwFI/rs:fit/g:sm/q:90/h:482/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM5/OTc1LTE2ODkwMzcx/MzQtNTM2OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/scsbyrUUWfTCm84W3q8YX5p-0lIJj-bwZQ8zUsSFwFI/rs:fit/g:sm/q:90/h:482/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM5/OTc1LTE2ODkwMzcx/MzQtNTM2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/vVXwvvv17yCYSIklRzHW2Kn__v8snmSdF6GmKAi_cVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM5/OTc1LTE2ODkwMzcx/MzQtNTM2OS5qcGVn.jpeg",
+        "width": 523,
+        "height": 482
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/duZjxUovXRvYUpMiLvUq9-Ht7YElqBszcyDsQgaoWDY/rs:fit/g:sm/q:90/h:385/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM5/OTc1LTE2ODkwMzcx/MzUtNzUwMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/duZjxUovXRvYUpMiLvUq9-Ht7YElqBszcyDsQgaoWDY/rs:fit/g:sm/q:90/h:385/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM5/OTc1LTE2ODkwMzcx/MzUtNzUwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/I0u6sgIOg-1CWAroS2z3kG-JgXukGRVeGqq4xM4XkBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM5/OTc1LTE2ODkwMzcx/MzUtNzUwMS5qcGVn.jpeg",
+        "width": 429,
+        "height": 385
+      }
+    ],
+    "thumb": "https://i.discogs.com/vVXwvvv17yCYSIklRzHW2Kn__v8snmSdF6GmKAi_cVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM5/OTc1LTE2ODkwMzcx/MzQtNTM2OS5qcGVn.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  }
+]
